@@ -86,7 +86,7 @@ Common,  Dwarvish
 - Weight: 166 lbs
 
 ## Personality/Mannerisms
-- 
+- Torrin is a pretty simple dwarf. Work hard, play hard, and live life as if tomorrow is not promised.
 
 ### Quips
 
