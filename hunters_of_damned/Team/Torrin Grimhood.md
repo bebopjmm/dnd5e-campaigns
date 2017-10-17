@@ -1,7 +1,8 @@
 # Torrin Grimhood
-Torrin is a doughty dwarf fighter ...
-![Torrin Grimhood](./images/torrin.jpg)
+Torrin is a doughty dwarf fighter ...  
+![Torrin Grimhood](./images/torrin.jpg)  
 Neutral Good Male Mountain Dwarf Fighter (1)
+
 ## Stats
 |**Ability**|**\*STR\***|**DEX**|**\*CON\***|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
