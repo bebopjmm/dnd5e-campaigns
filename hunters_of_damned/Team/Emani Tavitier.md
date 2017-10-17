@@ -128,10 +128,11 @@ Whether you knew Professor Lorrimor well or only in passing, as a colleague or c
 
 - Homeland: Ustalav town
 - Circumstances of Birth: Marked by the Gods
-- Parents: Mother still living
+- Parents: both deceased
 - Siblings: none
 - Parent's Professions: Peasants
 - Childhood Event: Major Disaster
+	- Emani's village was ravaged by a pack of werewolves.
 - Training: The Devoted
 - Influential Associate: The Academic
 	- Professor Lorrimor
@@ -145,11 +146,10 @@ Whether you knew Professor Lorrimor well or only in passing, as a colleague or c
 ### Contacts
 
 ### Big Goals / Motivations
-
 1. 
 
 ### Secrets
-1.  
+1.  Emani is the sole survivor of her small village that was ravaged by a pack of werewolves. Superstitous folks would likely consider her infected.
 
 ### Story Arcs
 1. 
