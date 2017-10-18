@@ -83,33 +83,34 @@ The chest itself is a relatively small object of oak and iron. Kendra, nervous a
 - Emain flips through Serving Your Hunger tome with disdain
 - Torrin has another drink and chats with Kendra
 - Ihrin flips through the journal and discovered that some of the entries had been circled in a red pen. Calling the others over, she found the first marked entry dated ten years back.
+
 > The Whispering Way is more than just a cabal of necromancers. I see that now. Undeath is their fountain of youth. Uncovering their motivation does not place me at ease as I thought it might. Their desire to be eternal simply makes them more dangerous.
 
-	- Torrin has never heard of them
-	- Emani (17): The Whispering Way is a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer. 
-	- Calvinus(17) confirms Emani's statements
-	- Razvan has never heard of them
+- Torrin has never heard of them
+- Emani (17): The Whispering Way is a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer. 
+- Calvinus(17) confirms Emani's statements
+- Razvan has never heard of them
 
-	The next marked entry was from two months back.
+The next marked entry was from two months back.
 > It is as I feared. The Way is interested in something here in Ravengro. But what could it be?
 
-	The next marked entry was from one month back.
+The next marked entry was from one month back.
 > Whatever the Way seeks, I am now convinced their goal is connected to Harrowstone. In retrospect, I suppose it all makes sense - the stories they tell about the ruins in town are certainly chilling enough. It may be time to investigate the ruins, but with everyone in town already being so worked up about them, I'd rather not let the others know about my curiosity - there's plenty of folks hereabouts who already think I'm a demonologist or a witch or something. Ignorant fools!
 
-	- Torrin has never heard of Harrowstone
-	- Emani has never heard of Harrowstone  
-	- Kendra can relate basic local knowledge: Harrowstone is a ruined prison just outside town built in 4594. In fact, Ravengro was founded at the same time as a place where the guards and their families could live and that would produce food and other supplies used by the prison. A horrible fire in 4661 killed all of the prisoners and most of the guards destroyed a large portion of the prison’s underground eastern wing, but left most of the stone structure above relatively intact. The prison’s warden perished in the fire, along with his wife, although no one knows why she was in the prison when the fire occurred. A statue commemorating the warden and the guards who lost their lives was built in the months after the tragedy—that statue still stands on the riverbank just outside of town. Many of the locals suspect the site is haunted and won't speak of the place. 
-	- Ihrin adds that Harrowstone was infamous amongst the criminal world as most of the hardened criminals sent to Harrowstone spent only a few months imprisoned, for it was here that most of Ustalav’s executions during that era were carried out.
-	- Calvinus knows nothing more than what Kendra related
-	- Razvan has never heard of Harrowstone  
+- Torrin has never heard of Harrowstone
+- Emani has never heard of Harrowstone  
+- Kendra can relate basic local knowledge: Harrowstone is a ruined prison just outside town built in 4594. In fact, Ravengro was founded at the same time as a place where the guards and their families could live and that would produce food and other supplies used by the prison. A horrible fire in 4661 killed all of the prisoners and most of the guards destroyed a large portion of the prison’s underground eastern wing, but left most of the stone structure above relatively intact. The prison’s warden perished in the fire, along with his wife, although no one knows why she was in the prison when the fire occurred. A statue commemorating the warden and the guards who lost their lives was built in the months after the tragedy—that statue still stands on the riverbank just outside of town. Many of the locals suspect the site is haunted and won't speak of the place. 
+- Ihrin adds that Harrowstone was infamous amongst the criminal world as most of the hardened criminals sent to Harrowstone spent only a few months imprisoned, for it was here that most of Ustalav’s executions during that era were carried out.
+- Calvinus knows nothing more than what Kendra related
+- Razvan has never heard of Harrowstone  
 
-	The next marked entry was from twenty days ago.
+The next marked entry was from twenty days ago.
 > It is confirmed. The Way seems quite interested in something- no, strike that - someone who was held in Harrowstone. But who, specifically, is the Way after? I need a list of everyone who died the night of the fire. Everyone. The Temple of Pharasma must have such a list.
 
-	The next marked entry was from eighteen days ago.
+The next marked entry was from eighteen days ago.
 > I see now just how ill prepared I was when I last set out for the Harrowstone. I am lucky to have returned at all. The ghosts, if indeed they were ghosts (for I did not find it prudent to investigate further) prevented me from transcribing the strange symbols I found etched along the foundation. Hopefully on my next visit I will be more prepared. Thankfully the necessary tools to defend against spirits are already here in Ravengro. I know that the Temple of Pharasma used to store them in a false crypt in the Restlands at the intersection between Eversleep and the Black Path. I am not certain if the current clergy even know of what their predecessors have hidden down below. If my luck holds, I should be able to slip in and out with a few borrowed items.
 
-	The final circled entry was on the day of his death.
+The final circled entry was on the day of his death.
 > Tomorrow evening I return to the prison. It is imperative the Way does not finish. My caution had already cost me too much time. I am not sure what will happen if I am too late, but if my theory is right, the entire town could be at risk. I don't have time to update my will, so I'll leave this in the chest where it'll be sure to be found, should the worst come to pass.
 
 After this initial perusal, the group determined next steps. It was mid afternoon. 
