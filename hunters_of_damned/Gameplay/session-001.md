@@ -1,4 +1,4 @@
-# Gameplay Session 01
+# Gameplay Session 1-01
 Party Members:
 - Calvinus Asina
 - Emani Tavitier 

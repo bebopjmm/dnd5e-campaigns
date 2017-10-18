@@ -1,5 +1,5 @@
 # Calvinus Asina
-Calvinus is an obsessed human warlock seeking to unlock a mystery that plagues him  
+*Calvinus is an obsessed human warlock seeking to unlock a mystery that plagues him*  
 ![Calvinus Asina](./images/calvinusAsina.jpg)  
 Neutral Male Human Warlock (1)
 ## Stats
