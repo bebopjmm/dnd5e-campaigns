@@ -58,7 +58,7 @@ Calvinus is not a fighter, melee or ranged. He keeps his distance and primarily 
 
 ### Abilities
 - **Observant**: If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
-- **Researcher**: When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information com es from a library, scriptorium, university, or a sage or other learned person or creature.
+- **Researcher**: When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature.
 - **Otherwordly Patron**: The Great Old One
 	- Awakened Mind: You can communicate telepathically with any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
@@ -85,10 +85,10 @@ Common, Elvish, Abyssal, Draconic
 
 ## Description
 - Age: 24
-- Height: 5'
+- Height: 5' 6"
 - Weight: 126 lbs
 
-Small and mousy, Calvinus nevertheless has an intensity and passion about him that cannot be ignored.
+Small and frail, Calvinus nevertheless has an intensity and passion about him that cannot be ignored.
 
 ## Personality/Mannerisms
 
