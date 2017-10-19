@@ -136,7 +136,7 @@ Professor Lorrimor traveled the Inner Sea region lecturing and teaching at unive
 1. 
 
 ### Secrets
-1.  
+1.  You opened an eldritch tome and saw things unfit for a sane mind. You burned the book, but its words and images are burned into your psyche. This is the source now of the question.
 
 ### Story Arcs
 1. 

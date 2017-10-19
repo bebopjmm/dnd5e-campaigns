@@ -52,7 +52,7 @@ Lawful Neutral Male Human Witch Hunter (1)
 	- You gain a +5 bonus to initiative.
 	- You can’t be surprised while you are conscious.
 	- Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
-- **Position of Privilege**: Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+- **Heart of Darkness**: Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to  fight alongside you, should you  find yourself facing an enemy alone.
 - **Hunter's Bane**: You have advantage on Survival checks to track Fey, Fiends, and Undead and Int checks to recall information about them.
 
 ### Proficiencies
@@ -70,7 +70,7 @@ Common,  +2
 - 2 daggers
 - studded leather armor
 - signet ring and scroll of pedigree
-- explorer's backpack
+- monster hunter's backpack
 	-  bedroll, mess kit, tinderbox
 	- 10 torches
 	- 10 days of rations, and a waterskin
@@ -90,16 +90,20 @@ Common,  +2
 ### Quips
 
 ### Traits
+- I live for the thrill of the hunt.
+- I put no trust in divine beings.
 
 ### Ideals
+- I’ll stop the spirits that haunt me or die trying.
 
 ### Bonds
-- I am determined to break the family curse bound to me
+- There’s evil in me, I can feel it. It must never be set free.
 
 ### Flaws
+- I feel no compassion for the dead for they are the lucky ones
 
-## Background (Noble - Baron)
-
+## Background (Haunted One)
+Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you  fled in terror.
 
 ### Campaign Introduction
 At some point in the past, Professor Lorrimor did you a favor under the condition that he would someday call on you to repay it. After he came to your aid, however, you never saw nor heard from him again, leaving you with a sense of unending anticipation that each day might be the day you were asked to return the favor. Yet that day never came, and your fears and anxiety about what the professor would call on you to do abated. Assuming the old man had either forgotten about you or died, you eventually assumed you'd never have to follow through on your end of the bargain. When you received word of the professor's death, and that he had named you specifically in his will, your dread of what he could possibly want from you has grown throughout your entire journey to Ravengro.
@@ -127,7 +131,7 @@ At some point in the past, Professor Lorrimor did you a favor under the conditio
 1. 
 
 ### Secrets
-1.  
+1.  Razvan is the first son and heir to the Dobrescu barony.
 
 ### Story Arcs
 1. 

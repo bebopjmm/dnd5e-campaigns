@@ -93,7 +93,7 @@ Common,  Dwarvish
 
 ### Traits
 - I’m full of inspiring and cautionary tales from my mercenary experience relevant to almost every combat situation.
-- I work hard so that I can play hard when the work is done. Money earned is money to be spent enjoying life now.
+- I spend money freely and live life to the fullest, knowing that tomorrow I might die.
 
 ### Ideals
 - **People**. I’m committed to my team mates, not to ideals.

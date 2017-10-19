@@ -114,7 +114,7 @@ Common,  Celestial, Abyssal
 - **Faith**: I trust that my deity will guide my actions, I have faith that if I work hard, things will go well.
 
 ### Bonds
-- Everything I do is for the common people.
+- A terrible survivor's guilt consumes me. I hope that I can  find redemption through my actions
 
 ### Flaws
 - I’m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
