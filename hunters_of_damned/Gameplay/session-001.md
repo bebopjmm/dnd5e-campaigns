@@ -65,7 +65,7 @@ Once everone was seated, Councilman Vashian produced a scroll case, showed that 
 > “Yet before you leave for Lepidstadt, there is the matter of another favor—please delay your journey one month and spend that period of time here in Ravengro to ensure that my daughter is safe and sound. She has no one to count on now that I am gone, and if you would aid her in setting things in order for whatever she desires over the course of this month, you would have my eternal gratitude. From my savings, I have also willed to each of you a sum of one hundred platinum coins. For safekeeping, I have left  these funds with Embreth Daramid, one of my most trusted friends in Lepidstadt—she has been instructed to issue this payment upon the safe delivery of the borrowed tomes no sooner than one month after the date of the reading of this will.
 > “I, Petros Lorrimor, hereby sign this will in Ravengro on this first day of Calistril, in the year X” 
 
-Councilman Vashian then distributed the envelopes, each addressed to a party member. His responsibilities satisfied, the councilman looked to Kendra, who thanked and dismissed him. Collecting his things, he gave the newcomers a final disparaging look before departing. Putting on a brave face, Kendra thanked the heroes again for coming, and informed them that she’ll need at least a few weeks to decide if she wants to sell her family home or remain here in Ravengro—in the meantime, as stipulated by the will, she asked the PCs to remain as well. She offered rooms in her spacious house for the PCs, promising them free room and board for the month the will requests them to remain in town, and then excused herself to go fetch the chest mentioned in the will. Alone and puzzled at the revelations, they each opened and read the letters that they had been given.
+Councilman Vashian then distributed the envelopes, each addressed to a party member. His responsibilities satisfied, the councilman looked to Kendra, who thanked and dismissed him. Collecting his things, he gave the newcomers a final disparaging look before departing. Kendra apologized for the councilman's manner, explaining the town's general suspicious and superticious nature. Putting on a brave face, she informed them that she’ll need at least a few weeks to decide if she wants to sell her family home or remain here in Ravengro—in the meantime, as stipulated by the will, she asked the PCs to remain as well. She offered rooms in her spacious house for the PCs, promising them free room and board for the month the will requests them to remain in town, and then excused herself to go fetch the chest mentioned in the will. Alone and puzzled at the revelations, they each opened and read the letters that they had been given.
 
 ### The Letters
 
@@ -114,12 +114,24 @@ The final circled entry was on the day of his death.
 > Tomorrow evening I return to the prison. It is imperative the Way does not finish. My caution had already cost me too much time. I am not sure what will happen if I am too late, but if my theory is right, the entire town could be at risk. I don't have time to update my will, so I'll leave this in the chest where it'll be sure to be found, should the worst come to pass.
 
 After this initial perusal, the group determined next steps. It was mid afternoon. 
-- Torrin declared he was going to work out but insists that a wake is in order for the professor
+- Torrin declared he was going to work out but insists that a wake is in order for the professor.
 - Emani needed to speak with Father Grimburrow
 - Ihrin wanted to stroll and get the lay of the land
 - calvinus and razvan thumbed through the two unlocked tomes
 
 ### The Temple of Pharasma 
+Emani arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion)
+- Professor Lorrimor and Harrowstone: He shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
+- Could she access the archives: If has a good justification then he would consider it
+- The hidden stash: very skeptical of such a thing, but will send a couple of the acolytes to check it out
+
+### A Town Stroll
+Ihrin strolls the main town square area
+- make note of The Silk Purse
+- browses the General Store and Jominda's Apothecary
+- has a drink at the Laughing Demon
+	- hears rumor: Jominda Fallenbridge does more than brew potions—she brews drugs and poisons as well and sells them through agents in other towns. Why else would the sheriff be so interested in her business?
+	- Torrin arrives from his workout and orders several growlers of ale for the wake
 
 ### The Wake
-
+Drinking and sharing stories of the Professor. Even Razvan opens up a bit, in his own dour way. It becomes quickly apparent that Calvinus is not much of a drinking and passes out.

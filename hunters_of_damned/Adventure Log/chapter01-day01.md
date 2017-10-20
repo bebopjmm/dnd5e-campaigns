@@ -1,8 +1,8 @@
 # Day 1
 ## The Burial of Professor Lorrimor 
-The sun had been up for hours, but the chill fog blanketing the little Ustalavian town of Ravengro refused to release its grip. A small group had gathered around a casket outside the Restlands, a large stretch of moorland reserved for interring Ravengro’s dead. While several were locals, five individuals were clearly strangers to the town. Two men heavily cloaked to ward off the chill, a woman in vestments of Pharasma, a half-elf woman also heavily cloaked, and a burly dwarf in armor. They had each received a summons requiring their attendance at the funeral and will reading of one Professor Petros Lorrimor. The townsfolk nodded at the strangers, but no warmer welcome was forthcoming.  
+The sun had been up for hours, but the chill fog blanketing the little Ustalavian town of Ravengro refused to release its grip. A small group had gathered around a casket outside the Restlands, a large stretch of moorland reserved for interring Ravengro’s dead. The group included five individuals that were clearly strangers to the town, two men heavily cloaked to ward off the chill, a woman in vestments of Pharasma, a half-elf woman also heavily cloaked, and a burly dwarf in armor. The townsfolk nodded at the strangers, but no warmer welcome was forthcoming.  
 A gentleman accompanied by a young woman strode from town to the cemetery entrance  where the group was gathered. A large middle-aged man, poshly dressed, the gentleman was clearly a town citizen of import. The young woman dressed in dark conservative clothes was quite attractive although her eyes were red and puffy. She warmly greeted each of the locals by name and thanked them for coming. She then turned to the strangers with mix of curiosity, sadness, and relief.  
-> “I am Kendra Lorrimor. Each of you has my deepest gratitude for answering my late father’s request.”
+> “I am Kendra Lorrimor. Each of you has my deepest gratitude for answering my late father’s request. I feared the summons would not reach you in time”
 
 %% have kendra greet each of the heroes, using this opportunity to introduce and briefly describe them
 
