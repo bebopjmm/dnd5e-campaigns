@@ -41,8 +41,6 @@ Day 3
 The next morning the group heads to the jail to present their evidence to Sheriff Caeller. He was skeptical until he looked closely at the war razor and recognized the engraving as the company crest that Gibs served with. He had his deputies go arrest Gibs.
 - Gibs was furious and accused the group of framing him, but the sheriff was firm that there was enough evidence to hold him.
 
-## Harrowstone Grounds
-Emani was very interested in checking out this notorious Harrowstone. Razvan was supportive, Ihrin liked anything other than researching boring tomes, Calvinus was hesitant, Torrin was sure, why not.
 
 
 
