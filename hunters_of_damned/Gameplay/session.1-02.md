@@ -35,9 +35,10 @@ This session starts on morning of Day 2
 		- the razor has a distinctive etching on the blade
 
 Everyone calls it a night and has fitful sleep.
+
 Day 3
 ## Arresting Gibs
-The next morning the group heads to the jail to present their evidence to Sheriff Caeller. He was skeptical until he looked closely at the war razor and recognized the engraving as the company seal that Gibs served with. He had his deputies go arrest Gibs.
+The next morning the group heads to the jail to present their evidence to Sheriff Caeller. He was skeptical until he looked closely at the war razor and recognized the engraving as the company crest that Gibs served with. He had his deputies go arrest Gibs.
 - Gibs was furious and accused the group of framing him, but the sheriff was firm that there was enough evidence to hold him.
 
 ## Harrowstone Grounds
