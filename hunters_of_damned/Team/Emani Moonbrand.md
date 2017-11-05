@@ -26,19 +26,19 @@ Emani favors a defensive role and supporting others with spells and healing.
 
 ### Spells
 - +5 attack, DC 13
-- 3 cantrips, 4 prepared
+- 3 cantrips, 4/4 prepared
 
 | Level | Name | Cast/Range/Comp/Dur | Notes |
 | ---- | ---- | ---- | ---- |
 | 0 | sacred flame | action, 60ft, VS, instant | Dex save or 1d8 radiant dmg |
-| 0 | light | action, touch, VM, 1hr |  touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.|
-| 0 | spare the dying | | |
-| 1 | bane | | |
+| 0 | guidance | action, touch, VS, Conc 1min max |  You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.|
+| 0 | spare the dying | action, touch, VS, instant | You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs. |
+| 1 | bane | action, 30ft, VSM, Conc 1min max | Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw. |
 | 1 | cure wounds | action, touch, VS, instant | heal 1d8+1 hp |
 | 1 | shield of faith | bonus, 60ft, VSM, Conc 10min max| shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC|
 | 1 | protect from evil | action, touch, VSM, Conc 10min max| one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect. |
 | 1 | command | action, 60ft, V, 1rd | Wis save or follow 1-word command |
-| 1 | false life | | |
+| 1 | false life | action, self, VSM, 1hr | Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. |
 
 | Skill | Mod | Notes
 | ---- | ---- | ---- |

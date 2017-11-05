@@ -9,7 +9,7 @@ Neutral Good Male Mountain Dwarf Fighter (1)
 |Mod (Val)| +3 (17) | +0 (10) | +3 (16) | -1 (8) | +1 (12) | +1 (13) | +0 (11) |
 |**Save**| +5 | +0 | +5 | -1 | +1 | +1 | +0 |
 
-- AC: 16
+- AC: 16 (18 w/ shield)
 - Init: -1
 - Size: Medium
 - Speed: 25 feet
@@ -32,7 +32,7 @@ Torrin thrives in melee combat preferring to use his battleaxe with two-hands, b
 | Arcana (Int) | -1 ||
 | Athletics (Str) | +5 | (P) |
 | Deception (Cha) | +1 ||
-| History (Int) | -1 ||
+| History (Int) | -1 | stonecunning(+3) |
 | Insight (Wis)| +1 ||
 | Intimidation (Cha) | +3 | (P) |
 | Investigation (Int) | -1 ||

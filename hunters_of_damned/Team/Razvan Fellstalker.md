@@ -103,10 +103,10 @@ Common,  +2
 - I feel no compassion for the dead for they are the lucky ones
 
 ## Background (Haunted One)
-Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you  fled in terror.
+Razvan's family has a history of practicing the dark arts. He dabbled once and felt something horrible clutch at his soul, whereupon he fled in terror.
 
 ### Campaign Introduction
-At some point in the past, Professor Lorrimor did you a favor under the condition that he would someday call on you to repay it. After he came to your aid, however, you never saw nor heard from him again, leaving you with a sense of unending anticipation that each day might be the day you were asked to return the favor. Yet that day never came, and your fears and anxiety about what the professor would call on you to do abated. Assuming the old man had either forgotten about you or died, you eventually assumed you'd never have to follow through on your end of the bargain. When you received word of the professor's death, and that he had named you specifically in his will, your dread of what he could possibly want from you has grown throughout your entire journey to Ravengro.
+At some point in the past, Professor Lorrimor did Razvan a favor under the condition that he would someday call on him to repay it. Razvan never saw nor heard from him again, however, leaving the outcast noble with a sense of unending anticipation that each day might be the day he would be asked to return the favor. Yet that day never came, and Razvan's fears and anxiety about what the professor would call on him to do abated. Assuming the old man had either forgotten about him or died, Razvan eventually assumed he'd never have to follow through on his end of the bargain. Upon receiving word of the professor's death, and that he had been named specifically in his will, Razvan's dread of what the professor could possibly want gnawed upon him throughout his entire journey to Ravengro.
 
 ### History
 - Homeland: Large Town

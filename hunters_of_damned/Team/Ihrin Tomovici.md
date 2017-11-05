@@ -23,7 +23,7 @@ Ihrin avoids melee combat when possible and strives to never be in a fair fight.
 | ---- | ---- | ---- | ---- |
 | rapier | +5 | 1d8+3 (pierce) | finesse |
 | dagger | +5 | 1d4+3 (pierce) | finess, light, range 20/60 |
-| shortbow | +5 | 1d6 (pierce) | range 80/320, 20/20 arrows |
+| shortbow | +5 | 1d6 (pierce) | range 80/320, 19/20 arrows |
 
 | Skill | Mod | Notes
 | ---- | ---- | ---- |
@@ -108,17 +108,17 @@ Common,  Elvish, Thieves' Cant, Halfling
 
 
 ### Campaign Introduction
-Fate smiled on you and Professor Lorrimor one day in the not so distant past. Through a matter of pure chance, you were in a position to save the late scholar’s life and did so. His gratitude was effusive, and he promised that he would never forget you. You are unsure of the nature of the summons in his will, but believe he may have listed you as a possible heir in thanks for saving him from an untimely demise.
+Fate smiled on Ihrin and Professor Lorrimor one day in the not so distant past. Through a matter of pure chance, Ihrin was in a position to save the late scholar’s life and did so. His gratitude was effusive, and he promised that he would never forget her. Ihrin was unsure of the nature of the summons in his will, but believed he may have listed her as a possible heir in thanks for saving him from an untimely demise.
 
 ### History
-- Homeland: Dwarven mountain stronghold
-- Circumstances of Birth: Middle-class
-- Parents: Both Alive
-- Siblings: 3
-- Parent's Professions: Merchants
-- Childhood Event: Raiders
+- Homeland: 
+- Circumstances of Birth: 
+- Parents: unknown
+- Siblings: 
+- Parent's Professions: unknown
+- Childhood Event: 
 - Training: Mercenary
-- Influential Associate: The Wanderer
+- Influential Associate: 
 - Moral Conflict: 
 - Romantic Relationships: 
 
@@ -133,7 +133,9 @@ Fate smiled on you and Professor Lorrimor one day in the not so distant past. Th
 1. 
 
 ### Secrets
+
 1.  
 
 ### Story Arcs
+
 1. 
