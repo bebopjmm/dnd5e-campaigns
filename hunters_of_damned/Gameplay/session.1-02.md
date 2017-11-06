@@ -20,14 +20,14 @@ This session starts on morning of Day 2
 - Razvan peruses the Professor's journal for most of the rest of the day
 - After getting his stomach back under control, Calvinus collaborates with Kendra to research the Whispering Way using the house library
 	- (17 Int Arcana) no additional clues found
-- Emani and Torrin go check out the local farmer's market that gathers every Wealday
-	- the locals are pretty aloof to Torrin, but as a cleric of Pharasma, Emani gets some to open up a bit. Inquiring about Harrowstone, she learns: Now and then, if you visit Harrowstone near sundown, you can hear the ghost of the warden’s wife wailing and sobbing from somewhere within the ruins. She haunts the prison now, forever mourning her husband and attempting to frighten anyone who intrudes on the prison.
+- Ludmilla and Torrin go check out the local farmer's market that gathers every Wealday
+	- the locals are pretty aloof to Torrin, but as a cleric of Pharasma, Ludmilla gets some to open up a bit. Inquiring about Harrowstone, she learns: Now and then, if you visit Harrowstone near sundown, you can hear the ghost of the warden’s wife wailing and sobbing from somewhere within the ruins. She haunts the prison now, forever mourning her husband and attempting to frighten anyone who intrudes on the prison.
 - Everyone rests up prior to the night investigation
 
 ## Investigating the Shack
 - Ihrin takes the lead, grousing about noisy people. Route is clear
 	- spot deputy with lantern at the memorial
-		- Emani and Torrin go to keep him distracted
+		- Ludmilla and Torrin go to keep him distracted
 	- razvan points out where he tracked, ihrin and calvinus sneak up toward shack to investigate (nat 20, 16 on stealth)
 	- ihrin uncovers a bit of her hooded lantern to provide directional light
 		- Calvinus discovers the waterskin and razor under some firewood

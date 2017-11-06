@@ -1,6 +1,6 @@
-# Emani Moonbrand
-*Emani is an idealistic human cleric dedicated to protecting the people of Ustalav*  
-![Emanin](./images/emani.jpg)  
+# Ludmilla Moonbrand
+*Ludmilla is an idealistic human cleric dedicated to protecting the people of Ustalav*  
+![Ludmillan](./images/ludmilla.jpg)  
 Neutral Good Female Human Cleric (1)
 ## Stats
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**\*WIS\***|**\*CHA\***|**SAN**|
@@ -17,7 +17,7 @@ Neutral Good Female Human Cleric (1)
 - Proficiency: +2
 
 ### Offense
-Emani favors a defensive role and supporting others with spells and healing.
+Ludmilla favors a defensive role and supporting others with spells and healing.
 
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |
@@ -102,7 +102,7 @@ Common,  Celestial, Abyssal
 - Weight: 148
 
 ## Personality/Mannerisms
-- Emani is the moral compass of the group
+- Ludmilla is the moral compass of the group
 
 ### Quips
 
@@ -133,7 +133,7 @@ Whether you knew Professor Lorrimor well or only in passing, as a colleague or c
 - Siblings: none
 - Parent's Professions: Peasants
 - Childhood Event: Major Disaster
-	- Emani's village was ravaged by a pack of werewolves.
+	- Ludmilla's village was ravaged by a pack of werewolves.
 - Training: The Devoted
 - Influential Associate: The Academic
 	- Professor Lorrimor
@@ -150,7 +150,7 @@ Whether you knew Professor Lorrimor well or only in passing, as a colleague or c
 1. 
 
 ### Secrets
-1.  Emani is the sole survivor of her small village that was ravaged by a pack of werewolves. She has a bite scar that has the signature crescent moon scar of a werewolf. Superstitous folks would likely consider her infected. 
+1.  Ludmilla is the sole survivor of her small village that was ravaged by a pack of werewolves. She has a bite scar that has the signature crescent moon scar of a werewolf. Superstitous folks would likely consider her infected. 
 
 ### Story Arcs
 1. 

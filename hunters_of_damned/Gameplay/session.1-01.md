@@ -1,7 +1,7 @@
 # Gameplay Session 1-01
 Party Members:
 - Calvinus Asina
-- Emani Moonbrand 
+- Ludmilla Moonbrand 
 - Ihrin Tomovici
 - Razvan Fellstalker
 - Torrin Grimhood
@@ -16,10 +16,10 @@ On the morning of the funeral, the five strangers arrived as directed to the ent
 
 All five party members serve as pallbearers.
 
-Upon Gibs charge of Professor Lorrimor being a necromancer, Emani challenged Gibs and the local thugs (21 Persuasion roll) and broke their resolve. They sullenly dispersed, shooting venomous glances at the party and Kendra. Gibs spat out a final threat as he departed
+Upon Gibs charge of Professor Lorrimor being a necromancer, Ludmilla challenged Gibs and the local thugs (21 Persuasion roll) and broke their resolve. They sullenly dispersed, shooting venomous glances at the party and Kendra. Gibs spat out a final threat as he departed
 >This is not over woman!
 
-Kendra thanked Emani profusely and apologized for the assault. The attending councilors professed shock at the attack
+Kendra thanked Ludmilla profusely and apologized for the assault. The attending councilors professed shock at the attack
 - recognized toughs as local farmhands, all of low character
 - identify the ringleader as Gibs Hephanus, a retired soldier
 
@@ -31,7 +31,7 @@ The procession continued without further complication to the plot, where the pal
 - Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments and thanked everyone again for coming. 
 
 She then invited others to share stories or remembrances. Each party member recounted how they knew the professor.
-- Emani gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
+- Ludmilla gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
 - Calvinus gave an uplifting account of his collaborations with the professor (18 Persuasion)
 - Torrin gave a brief statement of working for the professor (10 Persuasion)
 - Ihrin gave a slightly irreverent but touching account of first meeting the professor (19 Persuasion)
@@ -49,7 +49,7 @@ Kendra provided drinks and encouraged her guests to make themselves comfortable.
 The heroes make their introductions.
 
 - Torrin
-- Emani
+- Ludmilla
 - Calvinus
 - Ihrin
 - Razvan
@@ -75,7 +75,7 @@ The chest itself is a relatively small object of oak and iron. Kendra, nervous a
 - Manual of the Order of the Palatine Eye
 	- Razvan does not recognize it
 	- Torrin does not recognize it
-	- Emani does not recognize it
+	- Ludmilla does not recognize it
 	- Ihrin does not recognize it, but offers her appraisal that the lock is of exceptional quality
 	- Calvinus does not recognize it.
 - Calvinus is most interested in the On Verified Madness tome
@@ -87,8 +87,8 @@ The chest itself is a relatively small object of oak and iron. Kendra, nervous a
 > The Whispering Way is more than just a cabal of necromancers. I see that now. Undeath is their fountain of youth. Uncovering their motivation does not place me at ease as I thought it might. Their desire to be eternal simply makes them more dangerous.
 
 - Torrin has never heard of them
-- Emani (17): The Whispering Way is a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer. 
-- Calvinus(17) confirms Emani's statements
+- Ludmilla (17): The Whispering Way is a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer. 
+- Calvinus(17) confirms Ludmilla's statements
 - Razvan has never heard of them
 
 The next marked entry was from two months back.
@@ -98,7 +98,7 @@ The next marked entry was from one month back.
 > Whatever the Way seeks, I am now convinced their goal is connected to Harrowstone. In retrospect, I suppose it all makes sense - the stories they tell about the ruins in town are certainly chilling enough. It may be time to investigate the ruins, but with everyone in town already being so worked up about them, I'd rather not let the others know about my curiosity - there's plenty of folks hereabouts who already think I'm a demonologist or a witch or something. Ignorant fools!
 
 - Torrin has never heard of Harrowstone
-- Emani has never heard of Harrowstone  
+- Ludmilla has never heard of Harrowstone  
 - Kendra can relate basic local knowledge: Harrowstone is a ruined prison just outside town built in 4594. In fact, Ravengro was founded at the same time as a place where the guards and their families could live and that would produce food and other supplies used by the prison. A horrible fire in 4661 killed all of the prisoners and most of the guards destroyed a large portion of the prison’s underground eastern wing, but left most of the stone structure above relatively intact. The prison’s warden perished in the fire, along with his wife, although no one knows why she was in the prison when the fire occurred. A statue commemorating the warden and the guards who lost their lives was built in the months after the tragedy—that statue still stands on the riverbank just outside of town. Many of the locals suspect the site is haunted and won't speak of the place. 
 - Ihrin adds that Harrowstone was infamous amongst the criminal world as most of the hardened criminals sent to Harrowstone spent only a few months imprisoned, for it was here that most of Ustalav’s executions during that era were carried out.
 - Calvinus knows nothing more than what Kendra related
@@ -115,12 +115,12 @@ The final circled entry was on the day of his death.
 
 After this initial perusal, the group determined next steps. It was mid afternoon. 
 - Torrin declared he was going to work out but insists that a wake is in order for the professor.
-- Emani needed to speak with Father Grimburrow
+- Ludmilla needed to speak with Father Grimburrow
 - Ihrin wanted to stroll and get the lay of the land
 - calvinus and razvan thumbed through the two unlocked tomes
 
 ### The Temple of Pharasma 
-Emani arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion)
+Ludmilla arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion)
 - Professor Lorrimor and Harrowstone: He shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
 - Could she access the archives: If has a good justification then he would consider it
 - The hidden stash: very skeptical of such a thing, but will send a couple of the acolytes to check it out
