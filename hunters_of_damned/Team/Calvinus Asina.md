@@ -13,7 +13,7 @@ Neutral Male Human Warlock (1)
 - Size: Medium
 - Speed: 30 feet
 - HD: 1 / 1d8
-- hp: 7 / 7
+- hp: 7/ 7
 - Proficiency: +2
 
 ### Offense
@@ -26,7 +26,7 @@ Calvinus is not a fighter, melee or ranged. He keeps his distance and primarily 
 
 ### Spells
 - +5 attack, DC 13
-- 2 cantrips, 2 known spells, 1 spell slot (1)
+- 2 cantrips, 2 known spells, 1/1 spell slot 
 
 | Level | Name | Cast/Range/Comp/Dur | Notes |
 | ---- | ---- | ---- | ---- |
