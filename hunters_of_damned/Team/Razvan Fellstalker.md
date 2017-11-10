@@ -1,7 +1,7 @@
 # Razvan Fellstalker
 *Razvan is a dour human witch hunter seeking to end his family's curse.*  
 ![Razvan](./images/razvan.jpg)  
-Lawful Neutral Male Human Witch Hunter (1)
+Lawful Neutral Male Human Witch Hunter (2)
 
 ## Stats
 |**Ability**|**\*STR\***|**DEX**|**CON**|**INT**|**\*WIS\***|**CHA**|**SAN**|
@@ -13,12 +13,11 @@ Lawful Neutral Male Human Witch Hunter (1)
 - Init: +6
 - Size: Medium
 - Speed: 30 feet
-- HD: 1 / 1d8
-- hp: 11 / 11
+- HD: 2 / 2d8
+- hp: 21 / 21 or 19 / 19 (blood rite)
 - Proficiency: +2
 
 ### Offense
-
 
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |
@@ -54,6 +53,9 @@ Lawful Neutral Male Human Witch Hunter (1)
 	- Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
 - **Heart of Darkness**: Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to  fight alongside you, should you  find yourself facing an enemy alone.
 - **Hunter's Bane**: You have advantage on Survival checks to track Fey, Fiends, and Undead and Int checks to recall information about them.
+- Blood Rite (2hp cost): as a bonus action you can wound yourself and embue a single weapon with elemental energy that lasts until your next long rest. max hitpoint reduction can only be restored by long rest.
+	- weapon treated as magical with +1 attack bonus
+	- Rite of the Storm: +1d4 lightning damage
 
 ### Proficiencies
 - light, medium armor
@@ -62,14 +64,18 @@ Lawful Neutral Male Human Witch Hunter (1)
 - dragon chess
 
 ### Languages
-Common,  +2
+Common,  Giant, Primordial
 
 ## Gear
 - glaive
 - light crossbow and quiver
+- 5 bolts of disruption (attuned, +1 attack vs fiends/undead, +2d6 radiant dmg, >= 15hp DC15 Wisdom save or be destroyed)
 - 2 daggers
 - studded leather armor
 - signet ring and scroll of pedigree
+- 2 flasks of holy water
+- 2 potions of cure wounds (2d4+2)
+- driftglobe
 - monster hunter's backpack
 	-  bedroll, mess kit, tinderbox
 	- 10 torches

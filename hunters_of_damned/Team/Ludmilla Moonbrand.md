@@ -82,7 +82,7 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 - simple weapons
 
 ### Languages
-Common,  Celestial, Abyssal
+Common,  Celestial, Infernal
 
 ## Gear
 - mace
