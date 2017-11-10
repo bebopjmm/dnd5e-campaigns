@@ -1,7 +1,7 @@
 # Ihrin Tomovici
-Ihrin is a daring half-elf rogue ...
-Image
-Chaotic Neutral Female Half-elf Rogue (1)
+Ihrin is a daring half-elf rogue ...  
+![Ihrin Tomovici](./images/ihrin.jpg)   
+Chaotic Neutral Female Half-elf Rogue (2)
 ## Stats
 |**Ability**|**STR**|**\*DEX\***|**CON**|**\*INT\***|**WIS**|**CHA**|**SAN**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -12,8 +12,8 @@ Chaotic Neutral Female Half-elf Rogue (1)
 - Init: +3
 - Size: Medium
 - Speed: 30 feet
-- HD: 1 / 1d8
-- hp: 8 / 8
+- HD: 2 / 2d8
+- hp: 16 / 16
 - Proficiency: +2
 
 ### Offense
@@ -52,6 +52,7 @@ Ihrin avoids melee combat when possible and strives to never be in a fair fight.
 - **Criminal Contact**: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 - **Expertise**: 2x proficiency bonus (Thieves' Tools, Stealth)
 - **Sneak Attack**: +1d6 damage
+- **Cunning Action**: You can take a bonus action (Dash, Disengage, or Hide) on each turn in combat.
 
 ### Proficiencies
 - light armor
@@ -65,10 +66,13 @@ Common,  Elvish, Thieves' Cant, Halfling
 ## Gear
 - rapier
 - shortbow and quiver
+- 10 silvered arrows
 - 2 daggers
 - leather armor
 - dark set of common clothes, including hood
 - thieves' tools
+- 1 potion of cure wounds (2d4+2)
+- 2 flasks of holy water
 - burglar's backpack
 	- a bag of 1,000 ball bearings, 
 	- 10 feet of string, 
