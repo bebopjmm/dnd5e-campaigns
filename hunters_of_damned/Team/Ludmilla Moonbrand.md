@@ -1,7 +1,7 @@
 # Ludmilla Moonbrand
 *Ludmilla is an idealistic human cleric dedicated to protecting the people of Ustalav*  
 ![Ludmillan](./images/ludmilla.jpg)  
-Neutral Good Female Human Cleric (1)
+Neutral Good Female Human Cleric (2)
 ## Stats
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**\*WIS\***|**\*CHA\***|**SAN**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -12,8 +12,8 @@ Neutral Good Female Human Cleric (1)
 - Init: -1
 - Size: Medium
 - Speed: 30 feet
-- HD: 1 / 1d8
-- hp: 9 / 9
+- HD: 2 / 2d8
+- hp: 15 / 15
 - Proficiency: +2
 
 ### Offense
@@ -26,7 +26,9 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 
 ### Spells
 - +5 attack, DC 13
-- 3 cantrips, 4/4 prepared
+- 3 cantrips, 5 prepared
+- slots
+	- lvl 1: 3
 
 | Level | Name | Cast/Range/Comp/Dur | Notes |
 | ---- | ---- | ---- | ---- |
@@ -39,6 +41,7 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 | 1 | protect from evil and good | action, touch, VSM, Conc 10min max| one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect. |
 | 1 | command | action, 60ft, V, 1rd | Wis save or follow 1-word command |
 | 1 | false life | action, self, VSM, 1hr | Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. |
+| 1 | |||
 
 | Skill | Mod | Notes
 | ---- | ---- | ---- |
@@ -70,6 +73,9 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 	- **Circle of Mortality**: When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell’s healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action.
 	- **Eyes of the Grave**: If you spend 1 minute in uninterrupted contemplation, you can determine the presence and nature of undead creatures in the area. This detection extends up to 1 mile in all directions. You learn the number of undead and their distance and direction from you. In addition, you learn the creature type of the undead in that area that has the highest challenge rating. Once you use this feature, you can’t use it again until you finish a long rest.
 	- **Domain Spells**: bane, false life
+- **Channel Divinity**: (1/rest)
+	- **Turn Undead**: As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+	- **Path to the Grave**: As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack’s damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends. If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.
 
 ### Proficiencies
 - light, medium, heavy armor, shields
@@ -82,7 +88,12 @@ Common,  Celestial, Abyssal
 - mace
 - scale mail and shield
 - light crossbow and quiver
+- 5 +1 bolts
 - holy symbol
+- 2 flasks of holy water
+- scroll of detect evil and good
+- 2 scrolls of sanctuary
+- scroll of protection from evil and good
 - common clothes
 - priest's backpack
 	- a blanket, 
