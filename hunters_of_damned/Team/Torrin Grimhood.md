@@ -1,7 +1,7 @@
 # Torrin Grimhood
 Torrin is a doughty dwarf fighter ...  
 ![Torrin Grimhood](./images/torrin.jpg)  
-Neutral Good Male Mountain Dwarf Fighter (1)
+Neutral Good Male Mountain Dwarf Fighter (2)
 
 ## Stats
 |**Ability**|**\*STR\***|**DEX**|**\*CON\***|**INT**|**WIS**|**CHA**|**SAN**|
@@ -13,8 +13,8 @@ Neutral Good Male Mountain Dwarf Fighter (1)
 - Init: -1
 - Size: Medium
 - Speed: 25 feet
-- HD: 1 / 1d10
-- hp: 13 / 13
+- HD: 2 / 2d10
+- hp: 24 / 24
 - Proficiency: +2
 
 ### Offense
@@ -50,9 +50,10 @@ Torrin thrives in melee combat preferring to use his battleaxe with two-hands, b
 - **Darkvision**: 60’
 - **Dwarven Resilience**: Advantage on save vs poison, resistance vs poison damage
 - **Stonecunning**: 2x proficiency bonus for History(Int) with respect to stonework
-- **Military Rank**: Torrin was a respected corporal of the Dhall Thalrul mercenary company. Soldiers loyal to Dhall Thalrul still recognize his authority and influence, and they defer to him if of a lower rank. Torrin can invoke his rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. He can also usually gain access to friendly military encampments and fortresses where his rank is recognized.
+- **Military Rank**: Torrin is a respected corporal of the Dhall Thalrul mercenary company. Soldiers loyal to Dhall Thalrul still recognize his authority and influence, and they defer to him if of a lower rank. Torrin can invoke his rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. He can also usually gain access to friendly military encampments and fortresses where his rank is recognized.
 - **Great Weapon Fighting Style**: When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
-- **Second Wind**: You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
+- **Second Wind** (1 / short or long rest): You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+- **Action Surge** (1 / short or long rest): You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 
 ### Proficiencies
 - simple weapons, martial weapons
@@ -68,7 +69,9 @@ Common,  Dwarvish
 - chainmail
 - shield
 - battleaxe
-- light crossbow
+- light crossbow and quiver
+- 5 +1 bolts
+- 1 potion of cure wounds (2d4+2)
 - insignia of rank
 - tusks of orc champion slain
 - Three-Dragon Ante set
