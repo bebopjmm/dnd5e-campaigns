@@ -1,19 +1,19 @@
 # Ihrin Tomovici
-Ihrin is a daring half-elf rogue ...  
+Ihrin is a daring dhampir rogue ...  
 ![Ihrin Tomovici](./images/ihrin.jpg)   
-Chaotic Neutral Female Half-elf Rogue (2)
+Chaotic Neutral Female Nobleblood Dhampir Rogue (2)
 ## Stats
 |**Ability**|**STR**|**\*DEX\***|**CON**|**\*INT\***|**WIS**|**CHA**|**SAN**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +0 (10) | +3 (16) | +1 (12) | +2 (14) | -1 (8) | +3 (16) | +0 (11) |
-|**Save**| +0 | +5 | +1 | +4 | -1 | +3 | +0 |
+|Mod (Val)| +0 (10) | +2 (15) | +2 (14) | +2 (14) | -1 (8) | +2 (14) | +0 (11) |
+|**Save**| +0 | +4 | +2 | +4 | -1 | +2 | +0 |
 
-- AC: 14
-- Init: +3
+- AC: 13
+- Init: +2
 - Size: Medium
 - Speed: 30 feet
 - HD: 2 / 2d8
-- hp: 16 / 16
+- hp: 18 / 18
 - Proficiency: +2
 
 ### Offense
@@ -21,34 +21,38 @@ Ihrin avoids melee combat when possible and strives to never be in a fair fight.
 
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |
-| rapier | +5 | 1d8+3 (pierce) | finesse |
-| dagger | +5 | 1d4+3 (pierce) | finess, light, range 20/60 |
-| shortbow | +5 | 1d6 (pierce) | range 80/320, 19/20 arrows |
+| rapier | +4 | 1d8+2 (pierce) | finesse |
+| dagger | +4 | 1d4+2 (pierce) | finess, light, range 20/60 |
+| shortbow | +4 | 1d6+2 (pierce) | range 80/320, 19/20 arrows |
 
 | Skill | Mod | Notes
 | ---- | ---- | ---- |
-| Acrobatics (Dex) | +5 | (P) |
+| Acrobatics (Dex) | +4 | (P) |
 | Animal Handling (Wis) | -1 ||
 | Arcana (Int) | +2 ||
 | Athletics (Str) | +0 ||
-| Deception (Cha) | +5 | (P) |
+| Deception (Cha) | +4 | (P) |
 | History (Int) | +2 ||
 | Insight (Wis)| -1 ||
-| Intimidation (Cha) | +5 | (P) |
+| Intimidation (Cha) | +4 ||
 | Investigation (Int) | +4 | (P) |
 | Medicine (Wis) | -1 ||
 | Nature (Int) | +2 ||
 | Perception (Wis) | -1 | 9 passive |
-| Performance (Cha) | +5 | (P) |
-| Persuasion (Cha) | +5 | (P) |
+| Performance (Cha) | +4 | (P) |
+| Persuasion (Cha) | +4 | (P) |
 | Religion (Int) | +2 ||
-| Sleight of Hand (Dex) | +5 | (P) |
-| Stealth (Dex) | +7 | (P,E) |
+| Sleight of Hand (Dex) | +4 | (P) |
+| Stealth (Dex) | +6 | (P,E) |
 | Survival (Wis) | -1 ||
 
 ### Abilities
 - **Darkvision**: 60’
-- **Fey Ancestry**: Advantage on save vs charm, immune to sleep effects
+- **Hard to Kill**. advantage on death saving throws.
+- **Sunlight Sensitivity**. disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+- **Unnatural Resilience**. advantage on poison saving throws and have resistance against necrotic damage.
+- **Mesmerizing Presence**. When a creature Ihrin can see makes a saving throw against an illusion or charm effect, she can use her reaction to spend and roll a Hit Die, adding the result to the DC of that saving throw. She can do this after the creature makes its saving throw but before the DM declares whether or not it was successful.
+- **Natural Grace**. proficiency in Persuasion.
 - **Criminal Contact**: You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 - **Expertise**: 2x proficiency bonus (Thieves' Tools, Stealth)
 - **Sneak Attack**: +1d6 damage
