@@ -23,6 +23,7 @@ Torrin thrives in melee combat preferring to use his battleaxe with two-hands, b
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |
 | battleaxe | +5 | 1d8+3 (slash) / 1d10+3 (2-h, slash) | versatile |
+| dagger | +5 | 1d4+3 (pierce) | finess, light, range 20/60 |
 | light crossbow | +2 | 1d8 (pierce) | range 80/320, loading, 20/20 bolts|
 
 | Skill | Mod | Notes

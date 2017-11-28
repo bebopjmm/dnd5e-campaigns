@@ -14,7 +14,7 @@ Lawful Neutral Male Human Witch Hunter (2)
 - Size: Medium
 - Speed: 30 feet
 - HD: 2 / 2d8
-- hp: 21 / 21 or 19 / 19 (blood rite)
+- hp: 21 / 21 or 18 / 19 (blood rite)
 - Proficiency: +2
 
 ### Offense
@@ -53,7 +53,7 @@ Lawful Neutral Male Human Witch Hunter (2)
 	- Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
 - **Heart of Darkness**: Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to  fight alongside you, should you  find yourself facing an enemy alone.
 - **Hunter's Bane**: You have advantage on Survival checks to track Fey, Fiends, and Undead and Int checks to recall information about them.
-- Blood Rite (2hp cost): as a bonus action you can wound yourself and embue a single weapon with elemental energy that lasts until your next long rest. max hitpoint reduction can only be restored by long rest.
+- **Blood Rite** (2hp cost): as a bonus action you can wound yourself and embue a single weapon with elemental energy that lasts until your next long rest. max hitpoint reduction can only be restored by long rest.
 	- weapon treated as magical with +1 attack bonus
 	- Rite of the Storm: +1d4 lightning damage
 

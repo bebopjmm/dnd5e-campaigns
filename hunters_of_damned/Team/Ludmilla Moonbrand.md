@@ -28,7 +28,7 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 - +5 attack, DC 13
 - 3 cantrips, 5 prepared
 - slots
-	- lvl 1: 3
+	- lvl 1: 2 / 3
 
 | Level | Name | Cast/Range/Comp/Dur | Notes |
 | ---- | ---- | ---- | ---- |
@@ -36,12 +36,12 @@ Ludmilla favors a defensive role and supporting others with spells and healing.
 | 0 | guidance | action, touch, VS, Conc 1min max |  You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.|
 | 0 | spare the dying | action, touch, VS, instant | You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs. |
 | 1 | bane | action, 30ft, VSM, Conc 1min max | Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw. |
-| 1 | cure wounds | action, touch, VS, instant | heal 1d8+1 hp |
+| 1 | cure wounds | action, touch, VS, instant | heal 1d8+3 hp |
 | 1 | shield of faith | bonus, 60ft, VSM, Conc 10min max| shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC|
 | 1 | protect from evil and good | action, touch, VSM, Conc 10min max| one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect. |
-| 1 | command | action, 60ft, V, 1rd | Wis save or follow 1-word command |
+| 1 | guiding bolt | action, 120ft, VS, 1rd | A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then. |
 | 1 | false life | action, self, VSM, 1hr | Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. |
-| 1 | |||
+| 1 | healing word | bonus action, 60ft, V, instant | A creature of your choice that you can see within range regains hit points equal to 1d4 +3. This spell has no effect on undead |
 
 | Skill | Mod | Notes
 | ---- | ---- | ---- |
