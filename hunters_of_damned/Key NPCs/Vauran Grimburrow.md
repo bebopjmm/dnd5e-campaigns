@@ -1,6 +1,6 @@
 # Father Vauran Grimburrow
-Head priest of Pharasma in Ravengro  
-image
+*Head priest of Pharasma in Ravengro*    
+![Vauran Grimburrow](./images/vauranGrimburrow.jpg)  
 
 ## Description
 Bald, gaunt, and slightly stooped, Father Grimburrow is showing his years, but he is still quite spry although he uses a cane when he walks.
@@ -12,5 +12,6 @@ Father Grimburrow is a stern, pious traditionalist whose sermons are filled with
 Father Grimburrow is infamous for hitting people with his ever-present cudgel when they curse or act inappropriately.
 
 ## Key Interactions
+
 ### Chapter 1
 - 
