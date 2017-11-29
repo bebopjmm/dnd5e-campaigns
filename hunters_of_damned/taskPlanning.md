@@ -2,7 +2,7 @@
 
 ## Characters
 
-- [/] rework Ihrin as a dhampir with linkage to vampire story line
+- [x] rework Ihrin as a dhampir with linkage to vampire story line
 
 ### Story Arcs linking the PCs to the modules
 - [ ] craft a golem/frankenstein linkage for Torrin
