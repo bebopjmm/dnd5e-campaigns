@@ -140,4 +140,4 @@ Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated ar
 1.  
 
 ### Story Arcs
-1. Link to Alpon Caromarc and the Beast
+1. Link to Alpon Caromarc and the Beast: thinking that he has previous encounter with the Beast when Aplon Caromarc was on his vendetta and lost folks close to him. Torrin will be hell bent on vengeance.
