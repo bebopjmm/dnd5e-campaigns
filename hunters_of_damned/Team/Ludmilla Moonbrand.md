@@ -164,4 +164,4 @@ Whether you knew Professor Lorrimor well or only in passing, as a colleague or c
 1.  Ludmilla is the sole survivor of her small village that was ravaged by a pack of werewolves. She has a bite scar that has the signature crescent moon scar of a werewolf. Superstitous folks would likely consider her infected. 
 
 ### Story Arcs
-1. 
+1. The packlord

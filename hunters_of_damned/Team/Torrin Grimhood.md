@@ -115,7 +115,7 @@ Common,  Dwarvish
 Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated archeological dig, or information on a specialized topic, Professor Lorrimor was never shy about hiring professionals to help him attain his goals. He had contacts in most areas of expertise in every corner of the known world, a knack for recognizing talent, and a desire to be surrounded by the best and brightest at all times. Torrin frequently served as a hired bodyguard for the Professor sometimes even for jobs away from home. The Professor always payed his expenses and compensated him well for his time.
 
 ### History
-- Homeland: Dwarven mountain stronghold
+- Homeland: Dwarven mountain stronghold in the Tusk Mountains of western Vieland
 - Circumstances of Birth: Middle-class
 - Parents: Both Alive
 - Siblings: 3
@@ -140,4 +140,4 @@ Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated ar
 1.  
 
 ### Story Arcs
-1. 
+1. Link to Alpon Caromarc and the Beast
