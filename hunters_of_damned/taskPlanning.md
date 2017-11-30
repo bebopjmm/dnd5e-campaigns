@@ -16,6 +16,8 @@
 
 ## Prep
 - [ ]  Starting out, local ordinace should prohibit access to Harrowstone
+- [ ] Learn how Harrow Deck and Harrow points work and incorporate into the campaign
+- [ ] Consider introducing Adivion Adrissant at the funeral as a colleague of the Professor. In truth they had a Holmes vs Moriarty relationship. Have any references to AA changed to a moniker. AA will seemingly play a benefactor role throughout most of the story, while in truth toying with the PCs to make the 'game' more entertaining.
 
 ### Personal Letters from Professor Lorrimor
 Each of the characters will have a personal letter that *should* provide extra motivation satisfying the will request.
