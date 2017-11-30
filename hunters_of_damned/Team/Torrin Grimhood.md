@@ -92,6 +92,7 @@ Common,  Dwarvish
 
 ## Personality/Mannerisms
 - Torrin is a pretty simple dwarf. Work hard, play hard, and live life as if tomorrow is not promised.
+- Torrin has a particularly soft heart for children and animals
 
 ### Quips
 
@@ -109,10 +110,12 @@ Common,  Dwarvish
 - Once someone questions my courage, I never back down no matter how dangerous the situation.
 
 ## Background (Soldier - infantry)
-
+The youngest son of a respected merchant family, Torrin grew up on the roads between the Tusk Mountains and the major cities and town of Vieland. The roads could be dangerous, and Torrin learned basic combat at an early age. He showed much more interest and aptitude with weapons than the family business.
+Torrin's life changed one night in Lepistadt. Hearing screams while out with some of the caravan guards, they rushed to the scene to find a giant humanoid rampaging in one of the houses and about to kill a woman and her daughter. Torrin and company rushed to aid, and in the ensuing fight Torrin protected the girl as part of the house collapsed upon them. When he awoke he learned that it was the Beast of Lepistadt that had attacked the home leaving the mother was dead, but that he had saved the life of the girl, Kendra Lorrimor, daughter to Professor Petros Lorrimore. A squad of Dhall Thalrul soldiers had been tracking the Beast and arrived shortly after the collapse. Unfortunately the Beast escaped. The squad leader commended Torrin on his bravery and offered him a position with the mercenary company. 
+Torrin also gained the deep gratitude of Kendra's father, Professor Petros Lorrimore, and he became very close to the Lorrimore family - Kendra calling him 'Uncle Torrin'. Torrin helped the family move to Ravengro and frequently served as a hired bodyguard for the Professor, a job strongly encouraged by the Dhall Thalrul leadership. Torrin has sworn to bring justice to the Beast of Lepistadt
 
 ### Campaign Introduction
-Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated archeological dig, or information on a specialized topic, Professor Lorrimor was never shy about hiring professionals to help him attain his goals. He had contacts in most areas of expertise in every corner of the known world, a knack for recognizing talent, and a desire to be surrounded by the best and brightest at all times. Torrin frequently served as a hired bodyguard for the Professor sometimes even for jobs away from home. The Professor always payed his expenses and compensated him well for his time.
+It had been several months since the last assignment with the Professor. Torrin was shocked when the company commander informed him of the Professor's death. The commander gave him the letter requesting the dwarf's attendance at the funeral and reading of the will. He then told Torrin that his special assignment is providing whatever support is needed, and to keep the company informed.
 
 ### History
 - Homeland: Dwarven mountain stronghold in the Tusk Mountains of western Vieland
@@ -120,9 +123,9 @@ Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated ar
 - Parents: Both Alive
 - Siblings: 3
 - Parent's Professions: Merchants
-- Childhood Event: Raiders
+- Childhood Event:
 - Training: Mercenary
-- Influential Associate: The Wanderer
+- Influential Associate: 
 - Moral Conflict: 
 - Romantic Relationships: 
 
@@ -134,7 +137,7 @@ Whether he needed a bodyguard in a rough neighborhood, a guide to an isolated ar
 
 ### Big Goals / Motivations
 
-1. 
+1. Rain justice down upon the Beast of Lepistadt
 
 ### Secrets
 1.  
