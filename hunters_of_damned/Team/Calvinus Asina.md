@@ -17,7 +17,7 @@ Neutral Male Human Warlock (2)
 - Proficiency: +2
 
 ### Offense
-Calvinus is not a fighter, melee or ranged. He keeps his distance and primarily uses eldritch blast.
+Calvinus is not a fighter, melee or ranged. He keeps his distance and primarily uses eldritch blast, taking advantage of its repelling capabilites.
 
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |

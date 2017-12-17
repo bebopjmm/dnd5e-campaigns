@@ -17,7 +17,7 @@ Neutral Good Female Human Cleric (2)
 - Proficiency: +2
 
 ### Offense
-Ludmilla favors a defensive role and supporting others with spells and healing.
+Ludmilla favors a defensive role and supporting others with spells and healing. She is ruthless in the engagement of undead creatures.
 
 | Weapon | Attack Bonus | Damage | Notes |
 | ---- | ---- | ---- | ---- |
@@ -86,6 +86,7 @@ Common,  Celestial, Infernal
 
 ## Gear
 - mace
+- skane, a double-edge ceremonial dagger with a dull gray blade and a stylized depiction Pharasma’s face and hair on the pommel.
 - scale mail and shield
 - light crossbow and quiver
 - 5 +1 bolts
@@ -134,7 +135,7 @@ Common,  Celestial, Infernal
 
 
 ### Campaign Introduction
-Whether you knew Professor Lorrimor well or only in passing, as a colleague or competitor, his career and lifetime of discovery inspired you to be better at what you do. As you honed your craft, you and the professor corresponded, and he was delighted to hear that he had directly or indirectly motivated you to strive for your full potential. Saddened by the news of his death, you feel that you should honor his memory by fulfilling his final wishes and attending his funeral, and by ever striving to attain greater heights and someday match the influence and impact of your idol.
+Professor Lorrimor approached Ludmilla as part of his studies, as he had learned that she had survived werewolf attack on her village. Interested in the conditions of the attack and the means by which she avoided lycanthropy, he met with Ludmilla and maintained frequent correspondence until several months ago. The scars of her experience and his continual reminders of the encounter prompted Ludmilla to hone her skills lest she someday face the same type of creature again. The professor assisted Ludmilla in this endeavor, providing her with insight into the anatomy and defenses of lycanthropes.
 
 ### History
 
