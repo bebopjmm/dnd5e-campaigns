@@ -116,16 +116,18 @@ Common,  Elvish, Thieves' Cant, Halfling
 
 
 ### Campaign Introduction
-Fate smiled on Ihrin and Professor Lorrimor one day in the not so distant past. Through a matter of pure chance, Ihrin was in a position to save the late scholar’s life and did so. His gratitude was effusive, and he promised that he would never forget her. Ihrin was unsure of the nature of the summons in his will, but believed he may have listed her as a possible heir in thanks for saving him from an untimely demise.
+Fate smiled on Ihrin and Professor Lorrimor one day in the not so distant past. Through a matter of pure chance, Ihrin was in a position to save the late scholar’s life and did so. His gratitude was effusive, and he promised that he would never forget her. 
+The guild leader summoned Ihrin and informed her she had been hired for a special job in Ravengro. The situation was quite unusual, but the price offered for her services was too good to pass up. A coach
+Ihrin was unsure of the nature of the summons in his will, but believed he may have listed her as a possible heir in thanks for saving him from an untimely demise.
 
 ### History
-- Homeland: 
-- Circumstances of Birth: 
+- Homeland: Ustalav city of Ardis
+- Circumstances of Birth: unknown
 - Parents: unknown
-- Siblings: 
+- Siblings: unknown
 - Parent's Professions: unknown
 - Childhood Event: 
-- Training: Mercenary
+- Training: 
 - Influential Associate: 
 - Moral Conflict: 
 - Romantic Relationships: 
@@ -138,12 +140,13 @@ Fate smiled on Ihrin and Professor Lorrimor one day in the not so distant past. 
 
 ### Big Goals / Motivations
 
-1. 
+1. Ihrin is naturally curious about her parentage
+2. Ihrin desperately wants to break free from the thieves guild that she was sold into
 
 ### Secrets
 
-1.  
+1.  Ihrin keeps her dhampir race secret, passing herself off as a half-elf
 
 ### Story Arcs
 
-1. 
+1. link to vampires of book 6, Ashes at Dawn 
