@@ -11,7 +11,6 @@
 - [ ] craft the Old Ones linkage for Calvinus
 
 ### Ravengro NPCs
-- [ ] Rework Kendra Lorrimor as an [Oracle](https://docs.google.com/document/d/1yVukZqM_NT7iVXOwxlN2BYdhNKnhepQzSZ0bhRZeeq4/edit)
 
 
 ## Prep
