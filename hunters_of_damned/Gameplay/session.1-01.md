@@ -1,23 +1,24 @@
 # Gameplay Session 1-01
 Party Members:
-- Calvinus Asina
-- Ludmilla Moonbrand 
-- Ihrin Tomovici
-- Razvan Fellstalker
-- Torrin Grimhood
+
+- [Calvinus Asina](../Team/calvinusAsina.md)
+- [Ludmilla Moonbrand](../Team/ludmillaMoonbrand.md)
+- [Ihrin Tomovici](../Team/ihrinTomovici.md)
+- [Razvan Fellstalker](../Team/razvanFellstalker.md)
+- [Torrin Grimhood](../Team/torrinGrimhood.md)
 
 ## The Burial
 On the morning of the funeral, the five strangers arrived at the appointed time as instructed at the entrance to the Restlands graveyard in Ravengro. A few local citizens who were old friends of the deceased professor were there, as well as a couple of other visitors.
+
 - Councilman Gharen Muricar
 - Zohar Elkarid, the local tavern keeper
 - Perrin Elkarid, the tavern keeper’s son
 - Jominda Fallenbridge, the apothecary
 - Adivion Adrissant
-- Kvalca Sain
+- Kvalca Sain  
 
-Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashian Hearthmount, who also served as executer of the professor's will.
+Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashian Hearthmount, who also served as executer of the professor's will. The following volunteered to be pallbearers:
  
- The Pallbearers
  - Kvalca Sain
  - Adivion Adrissant
  - Razvan Fellstalker
@@ -35,29 +36,33 @@ Kendra thanked Ludmilla profusely and apologized for the assault. The attending 
 Father Grimburrow arrived moments later and also expresses shock at the audacity of the confrontation.
 >"My Friends, I am terribly sorry for the behavior that Gibs has shown today. These people know better than to intrude upon the holy rites of Pharasma. I will be sure to speak with the town sheriff and make sure that they are properly disciplined. Let us continue with this solemn task."
 
-The procession continued without further complication to the plot, where the pallbearers hand over the coffin to the gravediggers who lowered it into the open grave. 
+The procession continued without further complication to the plot, where the pallbearers hand over the coffin to the gravediggers who lowered it into the open grave
+
 - Father Grimburrow gave a short sermon. 
 - Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments and thanked everyone again for coming. 
 
 She then invited others to share stories or remembrances. Each party member recounted how they knew the professor.
-- Adivion
+
 - Kvalca
-- Ludmilla gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
-- Calvinus gave an uplifting account of his collaborations with the professor (18 Persuasion)
+- Adivion
 - Torrin gave a brief statement of working for the professor (10 Persuasion)
 - Ihrin gave a slightly irreverent but touching account of first meeting the professor (19 Persuasion)
 - Razvan gave a grim speech focus on the darkness the professor worked against (6 Persuasion)
+- Calvinus gave an uplifting account of his collaborations with the professor (18 Persuasion)
+- Ludmilla gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
 
 Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the heroes to her home for a drink and to hear his last will and testament.
+
 - Councilman Vashian Hearthmount must be present at the reading, but has some other matters that he must first attend to. He should arrive in about an hour.
 
 ## The Reading of the Will
 
 ### Waiting for Councilman Vashian
 Kendra provided drinks and encouraged her guests to make themselves comfortable. She had no idea what the will might contain, only that it stipulated that all the assembled individuals be present for its reading.
+
 - upon request she explains the sad and grisly death of the professor 
 
-The heroes make their introductions.
+The heroes made fuller introductions.
 
 - Torrin
 - Ludmilla

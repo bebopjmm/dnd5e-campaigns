@@ -1,6 +1,6 @@
 # Ludmilla Moonbrand
 *Ludmilla is an idealistic human cleric dedicated to protecting the people of Ustalav*  
-![Ludmillan](./images/ludmilla.jpg)  
+![Ludmilla](./images/ludmilla.jpg)  
 Neutral Good Female Human Cleric (2)
 ## Stats
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**\*WIS\***|**\*CHA\***|**SAN**|
