@@ -40,6 +40,8 @@ The procession continued without further complication to the plot, where the pal
 - Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments and thanked everyone again for coming. 
 
 She then invited others to share stories or remembrances. Each party member recounted how they knew the professor.
+- Adivion
+- Kvalca
 - Ludmilla gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
 - Calvinus gave an uplifting account of his collaborations with the professor (18 Persuasion)
 - Torrin gave a brief statement of working for the professor (10 Persuasion)
