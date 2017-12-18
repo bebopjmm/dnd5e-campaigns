@@ -7,14 +7,23 @@ Party Members:
 - Torrin Grimhood
 
 ## The Burial
-On the morning of the funeral, the five strangers arrived as directed to the entrance of the Restlands at the appointed time. Kendra Lorrimor was already there, along with a few local citizens who were old friends of the deceased professor.
-- Councilman Vashian Hearthmount
+On the morning of the funeral, the five strangers arrived at the appointed time as instructed at the entrance to the Restlands graveyard in Ravengro. A few local citizens who were old friends of the deceased professor were there, as well as a couple of other visitors.
 - Councilman Gharen Muricar
 - Zohar Elkarid, the local tavern keeper
 - Perrin Elkarid, the tavern keeper’s son
 - Jominda Fallenbridge, the apothecary
+- Adivion Adrissant
+- Kvalca Sain
 
-All five party members serve as pallbearers.
+Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashian Hearthmount, who also served as executer of the professor's will.
+ 
+ The Pallbearers
+ - Kvalca Sain
+ - Adivion Adrissant
+ - Razvan Fellstalker
+ - Ludmilla Moonbrand
+ - Ihrin Tomovici
+ - Torrin Grimhood
 
 Upon Gibs charge of Professor Lorrimor being a necromancer, Ludmilla challenged Gibs and the local thugs (21 Persuasion roll) and broke their resolve. They sullenly dispersed, shooting venomous glances at the party and Kendra. Gibs spat out a final threat as he departed
 >This is not over woman!
