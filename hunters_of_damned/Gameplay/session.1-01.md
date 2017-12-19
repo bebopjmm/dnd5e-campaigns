@@ -26,17 +26,28 @@ Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashia
  - Ihrin Tomovici
  - Torrin Grimhood
 
-Upon Gibs charge of Professor Lorrimor being a necromancer, Ludmilla challenged Gibs and the local thugs (21 Persuasion roll) and broke their resolve. They sullenly dispersed, shooting venomous glances at the party and Kendra. Gibs spat out a final threat as he departed
+### Trouble on the Dreamwake
+Kendra lead the somber procession along the gravel pathway winding through the cemetary, known as the Dreamwake. As the procession rounded the corner onto a separate path, the the way ahead was blocked by a dozen surly looking locals. The tallest of these toughs, an elderly but wiry man spoke out as soon as the procession rounded the corner.
+ >That’s far enough. We been talking, and we don’t want Lorrimor buried in the Restlands. You can take him upriver and bury him there if you want, but he ain’t goin’ in the ground here!
+
+Kendra's response was swift and fierce,
+> What are you talking about? I arranged it with Father Grimburrow. He’s waiting for us! The grave’s already been...
+
+But the surly old man interrupted,
+> You don’t get it, woman. We won’t have a necromancer buried in the same place as our kin. I suggest you move out while you still can. Folks are pretty upset about this right now.
+
+Unable to tolerate this outrageous breach of protocol, Ludmilla announced herself as a cleric of Pharasma and rebuked the local thugs (21 Persuasion roll). Their resolve broken they sullenly dispersed, shooting venomous glances at the party and Kendra. The elderly ringleader spat out a final threat as he departed
 > This is not over woman!
 
-Kendra thanked Ludmilla profusely and apologized for the assault. The attending councilors professed shock at the attack
+Kendra thanked Ludmilla profusely and apologized for the altercation. The attending councilors professed shock as well.
 
 - recognized toughs as local farmhands, all of low character
-- identify the ringleader as Gibs Hephanus, a retired soldier
+- identified the ringleader as Gibs Hephanus, a retired soldier
 
 Father Grimburrow arrived moments later and also expresses shock at the audacity of the confrontation.
 > My Friends, I am terribly sorry for the behavior that Gibs has shown today. These people know better than to intrude upon the holy rites of Pharasma. You can be assured that I will be speaking with the town sheriff and see that they are properly disciplined. Now, let us continue with this solemn task.
 
+### The Burial
 The procession continued without further complication to the plot, where the pallbearers handed the coffin over to the gravediggers who lowered it into the open grave. Father Grimburrow gave a short sermon. Then Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments before inviting others to share stories or remembrances.
 
 
@@ -61,7 +72,9 @@ Calvinus' remembrance (18 Persuasion) was far more uplifting,
 Ludmilla's account (16 Persuasion) was also moving,
 > When word reached me of Petros Lorrimor's untimely passing, my first thought was 'not this year, not yet.' I also was blessed to work with the Professor on a common concern, and his assistance has proven invaluable. Although he has passed into the realm of the Lady of Graves, our need is great for men of the professor's caliber. I, for one, intend to honor his legacy by protecting the good citizens of Ustalav from the nefarious forces that would do them harm.
 
-Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the visitors to her home for a drink and to hear his last will and testament. Councilman Vashian Hearthmount, the will executor who must be present at the reading, has some other matters that he must first attend to, but assured Kendra that he should arrive in about an hour.
+Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the visitors to her home for a drink and to hear his last will and testament. 
+
+- Councilman Vashian Hearthmount, the will executor who's presence was required for the reading, had some other matters that must be attended to first, but assured Kendra that he should arrive in about an hour.
 
 ## The Reading of the Will
 
