@@ -7,7 +7,7 @@ Party Members:
 - [Razvan Fellstalker](../Team/razvanFellstalker.md)
 - [Torrin Grimhood](../Team/torrinGrimhood.md)
 
-## The Burial
+## The Funeral of Petros Lorrimor
 On the morning of the funeral, the five strangers arrived at the appointed time as instructed at the entrance to the Restlands graveyard in Ravengro. A few local citizens who were old friends of the deceased professor were there, as well as a couple of other visitors.
 
 - Councilman Gharen Muricar
@@ -27,33 +27,41 @@ Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashia
  - Torrin Grimhood
 
 Upon Gibs charge of Professor Lorrimor being a necromancer, Ludmilla challenged Gibs and the local thugs (21 Persuasion roll) and broke their resolve. They sullenly dispersed, shooting venomous glances at the party and Kendra. Gibs spat out a final threat as he departed
->This is not over woman!
+> This is not over woman!
 
 Kendra thanked Ludmilla profusely and apologized for the assault. The attending councilors professed shock at the attack
+
 - recognized toughs as local farmhands, all of low character
 - identify the ringleader as Gibs Hephanus, a retired soldier
 
 Father Grimburrow arrived moments later and also expresses shock at the audacity of the confrontation.
->"My Friends, I am terribly sorry for the behavior that Gibs has shown today. These people know better than to intrude upon the holy rites of Pharasma. I will be sure to speak with the town sheriff and make sure that they are properly disciplined. Let us continue with this solemn task."
+> My Friends, I am terribly sorry for the behavior that Gibs has shown today. These people know better than to intrude upon the holy rites of Pharasma. You can be assured that I will be speaking with the town sheriff and see that they are properly disciplined. Now, let us continue with this solemn task.
 
-The procession continued without further complication to the plot, where the pallbearers hand over the coffin to the gravediggers who lowered it into the open grave
+The procession continued without further complication to the plot, where the pallbearers handed the coffin over to the gravediggers who lowered it into the open grave. Father Grimburrow gave a short sermon. Then Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments before inviting others to share stories or remembrances.
 
-- Father Grimburrow gave a short sermon. 
-- Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments and thanked everyone again for coming. 
 
-She then invited others to share stories or remembrances. Each party member recounted how they knew the professor.
+Kvalca Sain spoke first,
+> Today we say goodbye to great man. Petros Lorrimor was a man of both great intellect and great compassion. In this land of darkness Petros was a light, and with his passing the world has become a bit darker.
 
-- Kvalca
-- Adivion
-- Torrin gave a brief statement of working for the professor (10 Persuasion)
-- Ihrin gave a slightly irreverent but touching account of first meeting the professor (19 Persuasion)
-- Razvan gave a grim speech focus on the darkness the professor worked against (6 Persuasion)
-- Calvinus gave an uplifting account of his collaborations with the professor (18 Persuasion)
-- Ludmilla gives a moving account of how the professor's generosity inspired her to help others (16 Persuasion)
+Adivion Adrissant spoke next,
+> Professor Petros Lorrimor was a man of great insight, with a keen and enquiring mind. It was perhaps inevitable that it would be his curiosity that brought him low, for his questing ways led him to dark places, and what he lacked in prudence he more than compensated for in courage. Regardless, I shall remember him fondly as one who was almost a peer; as a man of intelligence, tempered but lightly by prudence.
 
-Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the heroes to her home for a drink and to hear his last will and testament.
+Torrin (10 Persuasion) gave a brief statement before choking up,
+> I traveled a fair bit with the Professor. Dark places he sought, true enough, but “knowledge is our most powerful weapon against evil “ he’d always say. Course I tend to put my faith in a good axe in my hand. But he weren’t just a man of learnin’ and questin’, he was a father, and a mighty devoted one at that.
 
-- Councilman Vashian Hearthmount must be present at the reading, but has some other matters that he must first attend to. He should arrive in about an hour.
+Ihrin (19 Persuasion) spoke next,
+> I met the Professor in one of those dark places to our mutual benefit. Petros Lorrimor was the rare breed of man that could not only see hope and potential in the lost, but open their eyes to it as well. Our time together was brief, but it has left me forever changed for the better.
+
+Razvan's remembrance (6 Persuasion) was particularly grim,
+> A great ally in the fight against darkness has been lost. Yet those dark forces that would prey upon good citizens take heed. Our resolve in this fight is only strengthened and we will hunt them down wherever they hide and rain doom upon them.
+
+Calvinus' remembrance (18 Persuasion) was far more uplifting,
+> I was fortunate enough to spend time under the tutelage of Professor Lorrimor, and I will always look back fondly on those hours of intellectual exploration and debate. Alas, my time with the dear professor was too short as my studies took me... elsewhere. I will remain, however, forever in his debt for opening those intellectual doors.
+
+Ludmilla's account (16 Persuasion) was also moving,
+> When word reached me of Petros Lorrimor's untimely passing, my first thought was 'not this year, not yet.' I also was blessed to work with the Professor on a common concern, and his assistance has proven invaluable. Although he has passed into the realm of the Lady of Graves, our need is great for men of the professor's caliber. I, for one, intend to honor his legacy by protecting the good citizens of Ustalav from the nefarious forces that would do them harm.
+
+Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the visitors to her home for a drink and to hear his last will and testament. Councilman Vashian Hearthmount, the will executor who must be present at the reading, has some other matters that he must first attend to, but assured Kendra that he should arrive in about an hour.
 
 ## The Reading of the Will
 
