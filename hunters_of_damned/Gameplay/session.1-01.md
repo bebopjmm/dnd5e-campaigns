@@ -61,7 +61,7 @@ Ihrin (19 Persuasion) spoke next,
 > I met the Professor in one of those dark places to our mutual benefit. Petros Lorrimor was the rare breed of man that could not only see hope and potential in the lost, but open their eyes to it as well. Our time together was brief, but it has left me forever changed for the better.
 
 Razvan's remembrance (6 Persuasion) was particularly grim,
-> A great ally in the fight against darkness has been lost. Yet those dark forces that would prey upon good citizens take heed. Our resolve in this fight is only strengthened and we will hunt them down wherever they hide and rain doom upon them.
+> A great ally in the fight against darkness has been lost. Yet those sinister forces that would prey upon good citizens take heed. Our resolve in this fight is only strengthened and we will hunt them down wherever they hide and rain doom upon them.
 
 Calvinus' remembrance (18 Persuasion) was far more uplifting,
 > I was fortunate enough to spend time under the tutelage of Professor Lorrimor, and I will always look back fondly on those hours of intellectual exploration and debate. Alas, my time with the dear professor was too short as my studies took me... elsewhere. I will remain, however, forever in his debt for opening those intellectual doors.

@@ -2,7 +2,6 @@
 This session starts on morning of Day 2
 ## The Desecrated Memorial
 - Torrin and Razvan were up while most everyone else nursed hangovers and went for a run
-	- Calvinus puking his guts out until about noon
 - During the run, they noticed a small crowd gathered at the Harrowstone Memorial
 	- checked out the scene and witnessed the bloody 'V' on the memorial and blood splatter all around
 	- sheriff acts dismissive, blaming young punks playing some prank.
@@ -17,6 +16,7 @@ This session starts on morning of Day 2
 		- she also heads out to the memorial and scopes out the shack
 
 ## Individual Pursuits
+- Calvinus was puking until about noon, sure that he would have to die in order to get better
 - Razvan peruses the Professor's journal for most of the rest of the day
 - After getting his stomach back under control, Calvinus collaborates with Kendra to research the Whispering Way using the house library
 	- (17 Int Arcana) no additional clues found
