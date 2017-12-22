@@ -45,6 +45,7 @@ Father Grimburrow arrived moments later and also expresses shock at the audacity
 > My Friends, I am terribly sorry for the behavior that Gibs has shown today. These people know better than to intrude upon the holy rites of Pharasma. You can be assured that I will be speaking with the town sheriff and see that they are properly disciplined. Now, let us continue with this solemn task.
 
 ### The Burial
+![](./images/professorBurial.png)
 The procession continued without further complication to the plot, where the pallbearers handed the coffin over to the gravediggers who lowered it into the open grave. Father Grimburrow gave a short sermon. Then Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments before inviting others to share stories or remembrances.
 
 
@@ -76,13 +77,15 @@ Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests
 ### Waiting for Councilman Vashian
 Kendra provided drinks and encouraged her guests to make themselves comfortable. She had no idea what the will might contain, only that it stipulated that all the assembled individuals be present for its reading.
 
-The heroes made fuller introductions.
+The visitors made fuller introductions.
 
 - Torrin
 - Ludmilla
 - Calvinus
 - Ihrin
 - Razvan
+- Kvalca
+- Adivion
 
 Making a visible effort to compose herself, Kendra took a couple of deep breaths before relating the sad tale,
 > Some weeks back, something caused my father to become obsessed with Harrowstone prison. Harrowstone is a ruined prison— partially destroyed by a fire over fifty years ago, the building has stood vacant ever since. Many of the locals suspect that it’s haunted, and don’t enjoy speaking of the place. It's strange, because we have lived here for years, and despite its tragic history, father never paid it much mind. Then while on the prison grounds one night, part of an old gargoyle broke off and struck him. Sheriff Caeller says he was killed instantly. The town has officially declared the prison and its grounds off limits, and the sheriff has deputies patrolling the exterior to enforce that decree.
@@ -108,14 +111,13 @@ Councilman Vashian then distributed the envelopes, each addressed to a party mem
 ### The Letters
 
 ### The Tomes
-The chest itself was a relatively small object of oak and iron. Kendra, nervous about the contents, handed the key to the Torrin to have the honor of opening the chest. The key fit the lock perfectly, and within wer several old tomes and one relatively new one that sat on the top and had a note with the phrase “Read me now!” attached to its leather cover. Ihrin flipped through the journal and discovered that some of the entries had been circled in a red pen. Calling the others over, she found the first marked entry dated ten years back.
+The chest itself was a relatively small object of oak and iron. Kendra, nervous about the contents, handed the key to the Torrin to have the honor of opening the chest. The key fit the lock perfectly, and within the dwarf found several books. Three were old tomes with jet black leather covers and bound together in twine with a note indicating that they should be deliverd to one Montagnie Crowl, a professor of antiquities at Lepistadt University. A light brown leather journal, obviously much newer, had an attached note with the phrase “Read me now!” The final tome was bound in a rich purple leather cover with an elaborate brass scarab set with a single eye in the center. It's attached note indicated that it should be delivered discretely to Embreth Daramid, a judge at the Lepidstadt Courthouse, at her home address, which was provided. Only this tome was locked with no key to be found within the chest. Ihrin appraised it to be an very high quality lock that would be exceptionally difficult to pick. No one was familiar with the strange beetle symbol on its cover.
+![](./images/manualEsoteric.jpg)
 
+After flipping through the journal, Calvinus discovered that some of the entries had been circled in red ink. Calling the others over, he found the first marked entry dated one year back.
 > The Whispering Way is more than just a cabal of necromancers. I see that now. Undeath is their fountain of youth. Uncovering their motivation does not place me at ease as I thought it might. Their desire to be eternal simply makes them more dangerous.
 
-- Torrin has never heard of them
-- Ludmilla (17): The Whispering Way is a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer. 
-- Calvinus(17) confirms Ludmilla's statements
-- Razvan has never heard of them
+Ludmilla, Razvan, and Calvinus recognized the The Whispering Way as a sinister organization of necromancers that has been active in the Inner Sea region for thousands of years. The others were unfamiliar with the organization.
 
 The next marked entry was from two months back.
 > It is as I feared. The Way is interested in something here in Ravengro. But what could it be?
@@ -123,12 +125,7 @@ The next marked entry was from two months back.
 The next marked entry was from one month back.
 > Whatever the Way seeks, I am now convinced their goal is connected to Harrowstone. In retrospect, I suppose it all makes sense - the stories they tell about the ruins in town are certainly chilling enough. It may be time to investigate the ruins, but with everyone in town already being so worked up about them, I'd rather not let the others know about my curiosity - there's plenty of folks hereabouts who already think I'm a demonologist or a witch or something. Ignorant fools!
 
-- Torrin has never heard of Harrowstone
-- Ludmilla has never heard of Harrowstone  
-- Kendra can relate basic local knowledge: Harrowstone is a ruined prison just outside town built in 4594. In fact, Ravengro was founded at the same time as a place where the guards and their families could live and that would produce food and other supplies used by the prison. A horrible fire in 4661 killed all of the prisoners and most of the guards destroyed a large portion of the prison’s underground eastern wing, but left most of the stone structure above relatively intact. The prison’s warden perished in the fire, along with his wife, although no one knows why she was in the prison when the fire occurred. A statue commemorating the warden and the guards who lost their lives was built in the months after the tragedy—that statue still stands on the riverbank just outside of town. Many of the locals suspect the site is haunted and won't speak of the place. 
-- Ihrin adds that Harrowstone was infamous amongst the criminal world as most of the hardened criminals sent to Harrowstone spent only a few months imprisoned, for it was here that most of Ustalav’s executions during that era were carried out.
-- Calvinus knows nothing more than what Kendra related
-- Razvan has never heard of Harrowstone  
+Kendra shared the basic local knowledge of the prison: Harrowstone is a ruined prison just outside town that was built in 4594. In fact, Ravengro was founded at the same time as a place where the guards and their families could live and that would produce food and other supplies used by the prison. A horrible fire in 4661 killed all of the prisoners and most of the guards destroyed a large portion of the prison’s underground eastern wing, but left most of the stone structure above relatively intact. The prison’s warden perished in the fire, along with his wife, although no one knows why she was in the prison when the fire occurred. A statue commemorating the warden and the guards who lost their lives was built in the months after the tragedy—that statue still stands on the riverbank just outside of town. Many of the locals suspect the site is haunted and won't speak of the place. Ihrin added that Harrowstone was infamous amongst the criminal world as most of the hardened criminals sent to Harrowstone spent only a few months imprisoned, for it was there that most of Ustalav’s executions during that era were carried out. 
 
 The next marked entry was from twenty days ago.
 > It is confirmed. The Way seems quite interested in something- no, strike that - someone who was held in Harrowstone. But who, specifically, is the Way after? I need a list of everyone who died the night of the fire. Everyone. The Temple of Pharasma must have such a list.
@@ -139,19 +136,7 @@ The next marked entry was from eighteen days ago.
 The final circled entry was on the day of his death.
 > Tomorrow evening I return to the prison. It is imperative the Way does not finish. My caution had already cost me too much time. I am not sure what will happen if I am too late, but if my theory is right, the entire town could be at risk. I don't have time to update my will, so I'll leave this in the chest where it'll be sure to be found, should the worst come to pass.
 
-- Manual of the Order of the Palatine Eye
-	- Razvan does not recognize it
-	- Torrin does not recognize it
-	- Ludmilla does not recognize it
-	- Ihrin does not recognize it, but offers her appraisal that the lock is of exceptional quality
-	- Calvinus does not recognize it.
-- Calvinus is most interested in the On Verified Madness tome
-- Razvan flips through The Umbral Leaves tome
-- Emain flips through Serving Your Hunger tome with disdain
-- Torrin has another drink and chats with Kendra
-- 
-
-After this initial perusal, the group began to discuss what to do next, but a slow knock upon the front door interrupted their deliberations.
+A slow knock upon the front door interrupted their deliberations.
 
 ### The Sheriff's Visit
 Kendra answered the door to find Sheriff Ben.
@@ -164,10 +149,10 @@ Addressing the newcomers, he added,
 Expressing his condolences to Kendra for her loss, he then made his departure, allowing the group to return to their discussion on how to proceed.
 
  
-- Torrin declared he was going to work out but insists that a wake is in order for the professor.
-- Ludmilla needed to speak with Father Grimburrow
+- Torrin insisted that a wake was in order for the professor.
+- Ludmilla declared that she needed to speak with Father Grimburrow regarding the journal's revelations
 - Ihrin wanted to stroll and get the lay of the land
-- calvinus and razvan thumbed through the two unlocked tomes
+- Calvinus and Razvan wanted to investigate the three older tomes
 
 
 ### The Temple of Pharasma 
