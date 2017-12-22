@@ -75,11 +75,6 @@ The discussion turned towards what the group should do next.
 	- could he it be that he learned of the evil within and was attempting to fight it?
 - reviewing the journal indicated that he discovered the strange runes and also reminded the group of the 'cache' in the Restlands
 	- Ludmilla stated that she would talk again with the head priest of the temple
-
-## Another Chat with Father Grimburrow
-Ludmilla was able to gain an audience with Father Grimburrow. Upon questioning about the supposed 'secret cache', the priest stated that his acolytes had investigated and found no such thing.
-- claims yet another delusion of the professor
-
 Ludmilla shared details of her 'scan' of the prison 
 - Father Grimburrow stated that the nature of the tragedy at the prison makes the existence of spirits unsurprising (but unable to effectively mask his concern).
 - when she hinted that the spirits needed purging, he sighed and grudgingly agreed in principle. He would allow her to proceed as she sees prudent ... for now (i'm not helping you but i'm not stopping you)

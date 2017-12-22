@@ -108,19 +108,7 @@ Councilman Vashian then distributed the envelopes, each addressed to a party mem
 ### The Letters
 
 ### The Tomes
-The chest itself is a relatively small object of oak and iron. Kendra, nervous about the contents, offers the key to the PCs to give them the honor of opening the chest. The key fits the lock perfectly, and within are several old tomes and one relatively new one. The newest tome sits on the top and bears the phrase “Read me now!” scratched into the leather cover.
-
-- Manual of the Order of the Palatine Eye
-	- Razvan does not recognize it
-	- Torrin does not recognize it
-	- Ludmilla does not recognize it
-	- Ihrin does not recognize it, but offers her appraisal that the lock is of exceptional quality
-	- Calvinus does not recognize it.
-- Calvinus is most interested in the On Verified Madness tome
-- Razvan flips through The Umbral Leaves tome
-- Emain flips through Serving Your Hunger tome with disdain
-- Torrin has another drink and chats with Kendra
-- Ihrin flips through the journal and discovered that some of the entries had been circled in a red pen. Calling the others over, she found the first marked entry dated ten years back.
+The chest itself was a relatively small object of oak and iron. Kendra, nervous about the contents, handed the key to the Torrin to have the honor of opening the chest. The key fit the lock perfectly, and within wer several old tomes and one relatively new one that sat on the top and had a note with the phrase “Read me now!” attached to its leather cover. Ihrin flipped through the journal and discovered that some of the entries had been circled in a red pen. Calling the others over, she found the first marked entry dated ten years back.
 
 > The Whispering Way is more than just a cabal of necromancers. I see that now. Undeath is their fountain of youth. Uncovering their motivation does not place me at ease as I thought it might. Their desire to be eternal simply makes them more dangerous.
 
@@ -150,6 +138,18 @@ The next marked entry was from eighteen days ago.
 
 The final circled entry was on the day of his death.
 > Tomorrow evening I return to the prison. It is imperative the Way does not finish. My caution had already cost me too much time. I am not sure what will happen if I am too late, but if my theory is right, the entire town could be at risk. I don't have time to update my will, so I'll leave this in the chest where it'll be sure to be found, should the worst come to pass.
+
+- Manual of the Order of the Palatine Eye
+	- Razvan does not recognize it
+	- Torrin does not recognize it
+	- Ludmilla does not recognize it
+	- Ihrin does not recognize it, but offers her appraisal that the lock is of exceptional quality
+	- Calvinus does not recognize it.
+- Calvinus is most interested in the On Verified Madness tome
+- Razvan flips through The Umbral Leaves tome
+- Emain flips through Serving Your Hunger tome with disdain
+- Torrin has another drink and chats with Kendra
+- 
 
 After this initial perusal, the group began to discuss what to do next, but a slow knock upon the front door interrupted their deliberations.
 
