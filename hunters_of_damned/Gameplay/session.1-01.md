@@ -139,28 +139,28 @@ The final circled entry was on the day of his death.
 A slow knock upon the front door interrupted their deliberations.
 
 ### The Sheriff's Visit
-Kendra answered the door to find Sheriff Ben.
+Kendra answered the door to find Sheriff Benjan Caellar. After apologizing for intruding upon her grief, he stated his business,
 
-> Father Grimburrow informed me of the disruption this morning. I just wanted you to know I'll be having a stern discussion with those involved, particularly Gibbs.
+> Father Grimburrow told me of the disruption this morning. I just wanted you to know I'll be dealing with those involved, particularly Gibbs.
 
 Addressing the newcomers, he added,
-> Please don't think this is common or acceptable behavior in this town. Ravengro has always been a close-knit community, and with all his travels and ... controversial pursuits, some never came to fully accept the Professor. Then of course nothing gets the rumors and superstitions stirred up around her like the abandoned prison.
+> I don’t want you thinking this is common or accepted behavior in this town. Ravengro has always been a close-knit community, and with all his travels and ... controversial pursuits, some never came to fully accept the Professor. Then of course nothing gets the rumors and superstitions stirred up around her like the abandoned prison.
 
 Expressing his condolences to Kendra for her loss, he then made his departure, allowing the group to return to their discussion on how to proceed.
-
  
-- Torrin insisted that a wake was in order for the professor.
+- Torrin insisted that a wake was in order for the professor. After a workout, he would get the necessary supplies.
 - Ludmilla declared that she needed to speak with Father Grimburrow regarding the journal's revelations
 - Ihrin wanted to stroll and get the lay of the land
 - Calvinus and Razvan wanted to investigate the three older tomes
 
-
 ### The Temple of Pharasma 
 Ludmilla arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion).
 
-- Professor Lorrimor and Harrowstone: He shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
-- Could she access the archives: If has a good justification then he would consider it
+- Professor Lorrimor and Harrowstone: Father Grimburrow shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
+- Could she access the archives: If there was a good justification then he would consider it
 - The hidden stash: very skeptical of such a thing, but will send a couple of the acolytes to check it out
+
+Thanking the head priest for his time, Ludmilla returned to Lorrimor Place.
 
 ### A Stroll Through Town
 Ihrin strolls the main town square area
@@ -172,4 +172,4 @@ Ihrin strolls the main town square area
 	- Torrin arrives from his workout and orders several growlers of ale for the wake
 
 ### The Wake
-Drinking and sharing stories of the Professor. Even Razvan opens up a bit, in his own dour way. It becomes quickly apparent that Calvinus is not much of a drinking and passes out.
+Drinking and sharing stories of the Professor. Even Razvan opened up a bit, in his own dour way. It quickly became apparent that Calvinus was not much of a drinker and passed out fairly early.

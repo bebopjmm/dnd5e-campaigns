@@ -21,16 +21,13 @@ A slow knock on the door shortly before noon, revealed Sherrif Caeller, who was 
 ### Individual Pursuits
 - After getting his stomach back under control, but still not ready to eat, Calvinus was keen on seeing if the house library contained any information about the Whispering Way. Today was the local market, and Kendra needed provisions, especially now that she would have extended company.
 - Ludmilla, Torrin, and Ihrin volunteered to handle the shopping at the market.
-collaborated with Kendra to research the Whispering Way using the house library.
-- Razvan studied the journal more thoroughly
-- Ludmilla, Ihrin, and Torrin go check out the local farmer's market that gathers every Wealday to get provisions for Kendra
-	- many of the locals are familiar with Torrin and having a cleric of Pharasma with him gets some to open up a bit even if they were suspicious of Ihrin. Inquiring about Harrowstone, they learned a bit in regards to it being haunted
+- Razvan decided to stay and help with the research
+- At the market, many of the locals are familiar with Torrin and having a cleric of Pharasma with him gets some to open up a bit even if they were suspicious of Ihrin. Inquiring about Harrowstone, they learned a bit in regards to it being haunted
 
 > Now and then, if you visit Harrowstone near sundown, you can hear the ghost of the warden’s wife wailing and sobbing from somewhere within the ruins. She haunts the prison now, forever mourning her husband and attempting to frighten anyone who intrudes on the prison.
 
 ### Shared Discoveries
-- Razvan didn't discover anything of note
-- Kendra and Calvinus shared what they were able to dig up on the Whispering Way (17 Intelligence Arcana).
+- when the shoppers returned, the researchers shared what they were able to dig up on the Whispering Way (17 Intelligence Arcana).
 
 > Agents of the Whispering Way often seek alliances with undead creatures, or are themselves undead. The Whispering Way’s most notorious member was Tar-Baphon, the Whispering Tyrant, although the society itself has existed much longer than even that mighty necromancer.
 
