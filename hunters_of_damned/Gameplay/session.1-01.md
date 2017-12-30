@@ -8,16 +8,27 @@ Party Members:
 - [Torrin Grimhood](../Team/torrinGrimhood.md)
 
 ## The Funeral of Petros Lorrimor
-On the morning of the funeral, the five strangers arrived at the appointed time as instructed at the entrance to the Restlands graveyard in Ravengro. A few local citizens who were old friends of the deceased professor were there, as well as a couple of other visitors.
+%% Rework to have funeral occur at dusk, prior to setting sun. Tie in as a Pharasma ritual.
+
+Heavily overcast skies prevented any warmth from the sun as dusk approached the little Ustalavian town of Ravengro. A small group had gathered around a casket outside the Restlands, a large stretch of moorland reserved for interring Ravengro’s dead. A few were local citizens, old friends of the deceased no doubt, but several were clearly strangers to the town.  
 
 - Councilman Gharen Muricar
-- Zohar Elkarid, the local tavern keeper
-- Perrin Elkarid, the tavern keeper’s son
+- Zohar Elkarid, the local tavern keeper, and his son, Perrin
 - Jominda Fallenbridge, the apothecary
 - Adivion Adrissant
-- Kvalca Sain  
+- Kvalca Sain
+- Horace Croon
 
-Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashian Hearthmount, who also served as executer of the professor's will. The following volunteered to be pallbearers:
+A young woman accompanied by a middle-aged gentleman strode from town to the cemetery entrance  where the group was gathered. Poshly dressed, the gentleman was clearly a town citizen of import. The young woman, dressed in dark conservative clothes of mourning, was quite attractive although her eyes were red and puffy. She warmly greeted each of the locals by name and thanked them for coming. She then turned to the strangers with mix of curiosity, sadness, and relief.  
+> “I am Kendra Lorrimor. Each of you has my deepest gratitude for answering my late father’s request. I feared the summons would not reach you in time”
+
+Nodding at the gentleman who accompanied her she added with a sigh,
+>“Councilman Hearthmount will conduct the reading of the will shortly after the funeral service. With things the way they are in town these days, I suppose this may be everyone, but where are the pallbearers that are supposed to be here?”
+
+Councilman Hearthmount spoke up, his tone comforting yet patronizing,
+>“We must proceed, Kendra. Dusk approaches, and Father Grimburrow is no doubt waiting for us at the site. It would seem we require volunteers to serve as pallbearers.”
+
+After a brief awkward pause, the humans and half-elf positioned themselves around the casket and lifted it. The dwarf being much shorter, decided to fall in line behind the casket, ahead to the local citizens. Kendra Lorrimor then led the procession into the cemetery along the gravel walkway.
  
  - Kvalca Sain
  - Adivion Adrissant
@@ -28,15 +39,17 @@ Kendra Lorrimor arrived just a short time later accompanied by Councilman Vashia
 
 ### Trouble on the Dreamwake
 Kendra lead the somber procession along the gravel pathway winding through the cemetary, known as the Dreamwake. As the procession rounded the corner onto a separate path, the the way ahead was blocked by a dozen surly looking locals. The tallest of these toughs, an elderly but wiry man spoke out as soon as the procession rounded the corner.
- >That’s far enough. We been talking, and we don’t want Lorrimor buried in the Restlands. You can take him upriver and bury him there if you want, but he ain’t goin’ in the ground here!
+> That’s far enough. We been talking, and we don’t want Lorrimor buried in the Restlands. You can take him upriver and bury him there if you want, but he ain’t goin’ in the ground here!
 
 Kendra's response was swift and fierce,
-> What are you talking about? I arranged it with Father Grimburrow. He’s waiting for us! The grave’s already been...
+> What are you talking about? All arrangements have been made with Father Grimburrow. He’s waiting for us! The grave’s already been...
 
 But the surly old man interrupted,
 > You don’t get it, woman. We won’t have a necromancer buried in the same place as our kin. I suggest you move out while you still can. Folks are pretty upset about this right now.
 
-Unable to tolerate this outrageous breach of protocol, Ludmilla announced herself as a cleric of Pharasma and rebuked the local thugs (21 Persuasion roll). Their resolve broken they sullenly dispersed, shooting venomous glances at the party and Kendra. The elderly ringleader spat out a final threat as he departed
+Unable to tolerate this outrageous breach of protocol, Ludmilla announced herself as a cleric of Pharasma and rebuked the local thugs (21 Persuasion roll). 
+
+Their resolve broken they sullenly dispersed, shooting venomous glances at the party and Kendra. The elderly ringleader spat out a final threat as he departed
 > This is not over woman!
 
 Kendra thanked Ludmilla profusely and apologized for the altercation. The attending councilors professed shock as well. They recognized the toughs as local farmhands, all of low character, and identified the ringleader as Gibs Hephanus, a retired soldier.
@@ -153,23 +166,6 @@ Expressing his condolences to Kendra for her loss, he then made his departure, a
 - Ihrin wanted to stroll and get the lay of the land
 - Calvinus and Razvan wanted to investigate the three older tomes
 
-### The Temple of Pharasma 
-Ludmilla arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion).
-
-- Professor Lorrimor and Harrowstone: Father Grimburrow shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
-- Could she access the archives: If there was a good justification then he would consider it
-- The hidden stash: very skeptical of such a thing, but will send a couple of the acolytes to check it out
-
-Thanking the head priest for his time, Ludmilla returned to Lorrimor Place.
-
-### A Stroll Through Town
-Ihrin strolls the main town square area
-
-- make note of The Silk Purse
-- browses the General Store and Jominda's Apothecary
-- has a drink at the Laughing Demon
-	- hears rumor: Jominda Fallenbridge does more than brew potions—she brews drugs and poisons as well and sells them through agents in other towns. Why else would the sheriff be so interested in her business?
-	- Torrin arrives from his workout and orders several growlers of ale for the wake
 
 ### The Wake
 Drinking and sharing stories of the Professor. Even Razvan opened up a bit, in his own dour way. It quickly became apparent that Calvinus was not much of a drinker and passed out fairly early.
