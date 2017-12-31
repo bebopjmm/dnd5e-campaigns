@@ -27,7 +27,7 @@ A slow knock on the door shortly before noon, revealed Sherrif Caeller, who was 
 > Now and then, if you visit Harrowstone near sundown, you can hear the ghost of the warden’s wife wailing and sobbing from somewhere within the ruins. She haunts the prison now, forever mourning her husband and attempting to frighten anyone who intrudes on the prison.
 
 ### The Temple of Pharasma 
-Ludmilla arrived at the temple and one of the acolyte's gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion).
+Ludmilla arrived at the temple and the first acolyte, Dumitru Oatbrooke, gave her a brief tour until Father Grimburrow was available. After basic pleasantries, she got to business (17 Persuasion).
 
 - Professor Lorrimor and Harrowstone: He shared that he considered the professor a well-meaning fool who dabbled in things best left alone. Confirmed that the professor had been making inquiries about Harrowstone, but the temple archives are not for general access.
 - Could she access the archives: If has a good justification then he would consider it
