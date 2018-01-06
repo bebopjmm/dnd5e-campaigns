@@ -51,7 +51,7 @@ Kendra's response was swift and fierce,
 But the surly old man interrupted,
 > You don’t get it, woman. We won’t have a necromancer buried in the same place as our kin. I suggest you move out while you still can. Folks are pretty upset about this right now.
 
-Unable to tolerate this outrageous breach of protocol, Ludmilla announced herself as a cleric of Pharasma and rebuked the local thugs ^(Persuasion 21). 
+Unable to tolerate this outrageous breach of protocol, Ludmilla announced herself as a cleric of Pharasma and rebuked the local thugs <sup>Persuasion 21</sup>. 
 
 Their resolve broken they sullenly dispersed, shooting venomous glances at the party and Kendra. The elderly ringleader spat out a final threat as he departed
 > This is not over woman!
@@ -66,26 +66,13 @@ Father Grimburrow arrived moments later and also expresses shock at the audacity
 The procession continued without further complication to the plot, where the pallbearers handed the coffin over to the gravediggers who lowered it into the open grave. Father Grimburrow gave a short sermon. Then Kendra, fighting back tears, briefly recounted a few of her father’s more courageous or selfless moments before inviting others to share stories or remembrances.
 
 
-Kvalca Sain spoke first,
-> Today we say goodbye to great man. Petros Lorrimor was a man of both great intellect and great compassion. In this land of darkness Petros was a light, and with his passing the world has become a bit darker.
-
-Adivion Adrissant spoke next,
-> Professor Petros Lorrimor was a man of great insight, with a keen and enquiring mind. It was perhaps inevitable that it would be his curiosity that brought him low, for his questing ways led him to dark places, and what he lacked in prudence he more than compensated for in courage. Regardless, I shall remember him fondly as one who was almost a peer; as a man of intelligence, tempered but lightly by prudence.
-
-Torrin gave a brief statement before choking up, ^(Persuasion 10)
-> I traveled a fair bit with the Professor. Dark places he sought, true enough, but “knowledge is our most powerful weapon against evil “ he’d always say. Course I tend to put my faith in a good axe in my hand. But he weren’t just a man of learnin’ and questin’, he was a father, and a mighty devoted one at that.
-
-Ihrin spoke next, ^(Persuasion 19)
-> I met the Professor in one of those dark places to our mutual benefit. Petros Lorrimor was the rare breed of man that could not only see hope and potential in the lost, but open their eyes to it as well. Our time together was brief, but it has left me forever changed for the better.
-
-Razvan's remembrance was particularly grim, ^(Persuasion 6)
-> A great ally in the fight against darkness has been lost. Yet those sinister forces that would prey upon good citizens take heed. Our resolve in this fight is only strengthened and we will hunt them down wherever they hide and rain doom upon them.
-
-Calvinus' remembrance was far more uplifting, ^(Persuasion 18)
-> I was fortunate enough to spend time under the tutelage of Professor Lorrimor, and I will always look back fondly on those hours of intellectual exploration and debate. Alas, my time with the dear professor was too short as my studies took me... elsewhere. I will remain, however, forever in his debt for opening those intellectual doors.
-
-Ludmilla's account was also moving, ^(Persuasion 16)
-> When word reached me of Petros Lorrimor's untimely passing, my first thought was 'not this year, not yet.' I also was blessed to work with the Professor on a common concern, and his assistance has proven invaluable. Although he has passed into the realm of the Lady of Graves, our need is great for men of the professor's caliber. I, for one, intend to honor his legacy by protecting the good citizens of Ustalav from the nefarious forces that would do them harm.
+- Kvalca Sain spoke first,
+- Adivion Adrissant spoke next,
+- Torrin gave a brief statement before choking up, <sup>Persuasion 10</sup>
+- Ihrin spoke next, <sup>Persuasion 19</sup>
+- Razvan's remembrance was particularly grim, <sup>Persuasion 6</sup>
+- Calvinus' remembrance was far more uplifting, <sup>Persuasion 18</sup>
+- Ludmilla's account was also moving, <sup>Persuasion 16</sup>
 
 Upon the conclusion of the funeral, Kendra said her goodbyes to the other guests and then invited the visitors to her home for a drink and to hear his last will and testament. Councilman Vashian Hearthmount, the will executor who's presence was required for the reading, had some other matters to attend to first, but assured Kendra that he should arrive in about an hour's time.
 
@@ -103,8 +90,6 @@ The visitors made fuller introductions.
 - Calvinus
 - Ihrin
 - Razvan
-- Kvalca
-- Adivion
 
 Making a visible effort to compose herself, Kendra took a couple of deep breaths before relating the sad tale,
 > Some weeks back, something caused my father to become obsessed with Harrowstone prison. Harrowstone is a ruined prison— partially destroyed by a fire over fifty years ago, the building has stood vacant ever since. Many of the locals suspect that it’s haunted, and don’t enjoy speaking of the place. It's strange, because we have lived here for years, and despite its tragic history, father never paid it much mind. Then while on the prison grounds one night, part of an old gargoyle broke off and struck him. Sheriff Caeller says he was killed instantly. The town has officially declared the prison and its grounds off limits, and the sheriff has deputies patrolling the exterior to enforce that decree.
@@ -131,7 +116,6 @@ Councilman Vashian then distributed the envelopes, each addressed to a party mem
 
 ### The Tomes
 The chest itself was a relatively small object of oak and iron. Kendra, nervous about the contents, handed the key to the Torrin to have the honor of opening the chest. The key fit the lock perfectly, and within the dwarf found several books. Three were old tomes with jet black leather covers and bound together in twine with a note indicating that they should be deliverd to one Montagnie Crowl, a professor of antiquities at Lepistadt University. A light brown leather journal, obviously much newer, had an attached note with the phrase “Read me now!” The final tome was bound in a rich purple leather cover with an elaborate brass scarab set with a single eye in the center. It's attached note indicated that it should be delivered discretely to Embreth Daramid, a judge at the Lepidstadt Courthouse, at her home address, which was provided. Only this tome was locked with no key to be found within the chest. Ihrin appraised it to be an very high quality lock that would be exceptionally difficult to pick. No one was familiar with the strange beetle symbol on its cover.
-![](./images/manualEsoteric.jpg)
 
 After flipping through the journal, Calvinus discovered that some of the entries had been circled in red ink. Calling the others over, he found the first marked entry dated one year back.
 > The Whispering Way is more than just a cabal of necromancers. I see that now. Undeath is their fountain of youth. Uncovering their motivation does not place me at ease as I thought it might. Their desire to be eternal simply makes them more dangerous.
