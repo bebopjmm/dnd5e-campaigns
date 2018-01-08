@@ -45,6 +45,7 @@ As the satyrs broke away and fled, Salisha called out to let them go - they coul
 - Vezoth healed Kylantha's wounds, giving her a rebuke for not keeping to a safe distance.
 	- Kylantha apologized for getting swept up in the moment
 	- Salisha applauded her fighting spirit
+- Each party member earned 40 XP
 
 ## The Family
 
@@ -53,4 +54,13 @@ Talked to the shaken family, and rode with them the rest of the way into Frikley
 - questions for the family?
 
 ## The Frickley Decision
+
+The group arrived at Frikley by mid-afternoon to a hastily patched up main gate being held together with rope.
+- simple task for Salisha to untie the gate
+- while doing so she noticed the giant footprints, most likely hill giant
+
+While village initially seemed deserted, the group heard raised voices as they neared the Blue Duke inn.
+- entered to find the inn filled to capacity with villagers, all talking over each other and banging angrily on tables
+- as soon as they enter the commotion ceased and the inn became uncomfortably silent
+
 
