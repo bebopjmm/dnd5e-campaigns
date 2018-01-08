@@ -36,6 +36,11 @@ Frickley is a small, sleepy village made up of around 30 houses that sit within 
 
 ### Pello Stoutpipe
 
+*Halfling male. Innkeeper. Ruddy-faced.*
+- **Ideal**: Home and hearth – there is nothing more important.
+- **Bond**: I’ve worked hard to create a livelihood in Frickley – I’m not going to abandon it.
+- **Flaw**: I am very stubborn; once I’ve made my mind up, there is no use trying to reason with me.
+
 ### councilmember 1 (minor aristocrat)
 
 ### councilmember 2 (local priest)
