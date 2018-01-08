@@ -30,6 +30,7 @@ Frickley is a small, sleepy village made up of around 30 houses that sit within 
 ### Tastra Fleetstrong
 
 *Half-Elf female. Hunter. Red hair.*
+![](./images/frickley.tastraFleetstrong.jpg)
 - **Ideal**: In the wild, the most important thing is making sure you can take care of yourself and your family.
 - **Bond**: Frickley has been good to me over the years, but villages are made of people, not houses.
 - **Flaw**: I have no respect for anybody who can’t make themselves useful or who doesn’t show ambition. Who would want to spend their entire life tending to the same field over and over again?
@@ -37,6 +38,7 @@ Frickley is a small, sleepy village made up of around 30 houses that sit within 
 ### Pello Stoutpipe
 
 *Halfling male. Innkeeper. Ruddy-faced.*
+![](./images/frickley.pelloStoutpipe.jpg)
 - **Ideal**: Home and hearth – there is nothing more important.
 - **Bond**: I’ve worked hard to create a livelihood in Frickley – I’m not going to abandon it.
 - **Flaw**: I am very stubborn; once I’ve made my mind up, there is no use trying to reason with me.
