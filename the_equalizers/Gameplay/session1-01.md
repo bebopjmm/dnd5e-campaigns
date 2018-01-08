@@ -1,6 +1,6 @@
 # The Giantslayer, session 01
 
-The party departed the *VILLAGE* the previous day enroute to the small hamlet of Frickley. The campsite known by Salisha was comfortable enough and secure, the night passing without incident. The spring day was temperate with cloudy skies, hinting at rain. Rolling plains have given way to a light forest as you follow an overgrown dirt road that wends its way through the trees.
+The party departed the village of Berkton the previous day enroute to the small hamlet of Frickley. The campsite known by Salisha was comfortable enough and secure, the night passing without incident. The spring day was temperate with cloudy skies, hinting at rain. Rolling plains have given way to a light forest as you follow an overgrown dirt road that wends its way through the trees.
 
 ## Foul Fey
 
@@ -49,13 +49,13 @@ As the satyrs broke away and fled, Salisha called out to let them go - they coul
 
 ## The Family
 
-Talked to the shaken family, and rode with them the rest of the way into Frikley, learning of the woes of their village of Scorton.
+Talked to the shaken family, and rode with them the rest of the way into Frickley, learning of the woes of their village of Scorton.
 
 - questions for the family?
 
 ## The Frickley Decision
 
-The group arrived at Frikley by mid-afternoon to a hastily patched up main gate being held together with rope.
+The group arrived at Frickley by mid-afternoon to a hastily patched up main gate being held together with rope.
 - simple task for Salisha to untie the gate
 - while doing so she noticed the giant footprints, most likely hill giant
 
