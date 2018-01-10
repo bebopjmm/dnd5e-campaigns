@@ -43,8 +43,12 @@ Frickley is a small, sleepy village made up of around 30 houses that sit within 
 - **Bond**: I’ve worked hard to create a livelihood in Frickley – I’m not going to abandon it.
 - **Flaw**: I am very stubborn; once I’ve made my mind up, there is no use trying to reason with me.
 
-### councilmember 1 (minor aristocrat)
+### Ithro Addelm (minor aristocrat)
+*A well-spoken human male. Noble. Heavy sideburns*
 
-### councilmember 2 (local priest)
+### Josina Springtide (local priest)
 
-### councilmember 3	 (former sheriff)
+*A compassionate human female. Priest. Dumpy with frizzy hair*
+
+### Nilril Graybow	(former sheriff)
+*A gruff half-elf male. Retired Sheriff. Missing digits on right hand*
