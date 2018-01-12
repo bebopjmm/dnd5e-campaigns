@@ -44,6 +44,7 @@ Suddenly shouts and cries from up ahead were heard. Rounding the corner they saw
 The group searched over the corpses of the satyrs and checked on the family
 
 - Each party member earned 40 XP
+- Rantigan kept the pan pipes
 
 ## The Family
 
@@ -64,14 +65,16 @@ While village initially seemed deserted, the group heard raised voices as they n
 ### Introductions
 Ithro Addelm recognized Salisha at once, welcomed her, and bid that she introduce her comrades.
 
-- Salisha explained that she had brought the horse, Sparkleheart, and made the introductions
+- Salisha explained that she had brought the pony, Sparkleheart, and made the introductions
+- Rantigan stayed quiet regarding his business
 - Kylantha proclaimed that she had arrived in response to Nilril Graybow's request of her master, Leomenor.
 	- Nilril was ill-pleased that a mere apprentice be sent to satisfy the debt, but Ithro bade her welcome and that any aid she could bring to the village's plight would be most appreciated.
-- Urimo offered his sword and shield to the aid of the village
 - Vezoth explained he was tasked with guarding Kylantha and would continue to do so
-- Ademar ... 
+- Bodalf proclaimed his Thunderbeast tribe membership and that he brought warnings of increased giant activity throughout the lands 
 
-### The Crisis
+This segued into Ithro explaining the village's current plight.
+
+### The Giant's Ultimatum
 Ithro Addhelm explained that Frickley has been visited by Bonecruncher the previous day. The gruesome hill giant laid down an ultimatum that the village must offer up all its food, or else. The giant is due to return in three days.
 
 - Tastra spoke out on behalf of the hunters that a hill giant is beyond the village's ability to deal with and that the village should be abandoned.
@@ -80,8 +83,8 @@ Ithro Addhelm explained that Frickley has been visited by Bonecruncher the previ
 	- his brother Andel vouched for his integrity
 	- villagers enter into a panic
 - Vezoth was inclined that the best the group could do was aid in protecting the villagers in fleeing to another location, perhaps taking them to Brinewick until the threat can be handled.
-- Ademar was fully supportive of not hanging around.
-- Urimo accepted the fact that a hill giant was far beyond their ability to handle.
+- Rantigan was fully supportive of not hanging around.
+- Bodalf accepted the fact that a hill giant was far beyond their ability to handle.
 
 ### Legend of the Giantslayer
 
@@ -89,15 +92,17 @@ With abandoning the village gaining support, Pello jumped onto a table, proclaim
 
 - lots of doubters in the crowd
 - Salisha was quite familiar with the stories, as her father adventured with Jahia for a time, and knew that Jahia was still alive in the area.
-- Urimo was enthused with the idea
+- Bodalf was enthused with the idea
 - Kylantha got Nilril to agree that retrieving Jahia to aid the village would satisfy the debt. Vezoth goes were Kylantha goes.
-- Ademar was torn, but sticking with the group seemed safer than with these hopeless yokels, and the payment was tempting
+- Rantigan was torn, but sticking with the group seemed safer than with these hopeless yokels, and the payment was tempting
 
-Under Salisha's advisement, the group chose Bayle as their guide. She had a personal dislike of Sholt.
+Under Salisha's advisement, the group chose Bayle as their guide.
+
+- She had a personal dislike of Sholt.
 
 ### Stay or Go?
 
-At Pello's request the party made the pitch to the leaders to stay and fight. Urimo tried inspiring (persuade) the others to stay and fight, aided by Vezoth and Salisha.
+At Pello's request the party made the pitch to the leaders to stay and fight. Vezoth tried inspiring the others to stay and fight, aided by Bodalf and Salisha.
 
 - advantage on the Charisma (Persuade) attempt -> 22
 
