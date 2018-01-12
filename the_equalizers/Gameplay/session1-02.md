@@ -59,5 +59,46 @@ Two small winged humanoids made entirely of ice emerged and attacked!
 	- death burst (Ademar, Urimo, Salisha all save for 3hp)
 	- Urimo falls dying from his wounds, but Vezoth quickly stabilizes him with spare the dying
 
+### Babano
+
+Everyone takes a short rest. Everyone injured used their healing
+
+- Vezoth and Salisha tended to Urimo
+	- Vezoth is hesitant to use his last curing spell
+- Ademar retrieved a sizable blue gem from the now melting ice shards
+	- its a sapphire and quite valuable (10 Intelligence for appraisal)
+- Bayle asked what manner of fey creature those were. Kylantha realized they were ice mephits, capricious, imp-like creatures native to the elemental planes. 
+
+At this point, they group heard a tuneless whistling approaching them from further down the path. Drawing her bow, Salisha called out to the person to identify themselves. An older man, obviously a woodsman, came sautering around the corner, oblivious to Salisha's call. She was about to call out again when he noticed the group, and greeted them.
+
+- Babano introduced himself and thanked the group for taking care of the pesky mephits
+	- commented about the death burst and offered 6 goodberries, which the group accepted with thanks
+- Vezoth fed a goodberry to Urimo, which revived the paladin. He kept 3 and gave the other 2 to Salisha
+- Urimo used his lay on hands to heal himself and Ademar
+
+Babano asked what had brought the party into the High Forest.
+
+- explained the plight of Frickley and task to find Jahia Giantslayer
+- Babano commented on increased giant activity, but wasn't familiar with Jahia
+- Babano warned the party that a squirrel told him that something foul has taken up residence at Weeping Rock in recent weeks.
+
+Babano bid the group farewell and good luck before sauntering into the forest, resuming his tuneless whistle.
+
+## Weeping Rock
+
+The path continued to wind uphill for some time, but eventually the trees begin to thin out and the group find themselves following a fast-flowing stream. Coming to the top of a small rise they spotted the source of the water - the ‘Weeping Rock’ itself.
+Weeping Rock was a grey boulder easily standing 50’ high and topped with moss. From the group's view, the huge rock bore a striking resemblance to a stony face with a low cave for a mouth and craggy nose. A steady gush of water flowed from two wide holes that resemble sad, weeping eyes, before flowing down the hill.
+
+Remembering the druid's warning, the group approached with caution. Salisha decided to scout the area alone (for stealth).
+
+- She noticed a large number of bones in the water at the base of the rock (12 Wisdom (Perception))
+
+Reporting back to the group, they decide to attempt at sneaking past the stone.
+
+- Vezoth and Urimo will lead, with Ademar a bit further back
+- Salisha, Kylantham and Bayle will trail and provide cover fire if anything reveals itself
+
+
+
 	
 		

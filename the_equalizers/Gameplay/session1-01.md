@@ -1,50 +1,48 @@
 # The Giantslayer, session 01
 
-The party departed the village of Berkton the previous day enroute to the small hamlet of Frickley. The campsite known by Salisha was comfortable enough and secure, the night passing without incident. The spring day was temperate with cloudy skies, hinting at rain. Rolling plains have given way to a light forest as you follow an overgrown dirt road that wends its way through the trees.
+The party departed the town of Beliard the previous day enroute to the small hamlet of Frickley. The campsite known by Salisha was comfortable enough and secure, and the night passed without incident. The following morning proved to be a fine spring day, temperate with cloudy skies that hinted at rain. The rolling plains had given way to a light forest as the group followed an overgrown dirt road that wends its way through the trees.
+
+- Kylantha was on her riding horse and Rantigan rode the pony, Sparkleheart
+- everyone else was on foot 
 
 ## Foul Fey
 
-Suddenly shouts and cries from up ahead were heard. Rounding the corner they saw an old cart perhaps a hundred yards down the road.
+Suddenly shouts and cries from up ahead were heard. Rounding the corner they saw an old cart perhaps a hundred yards down the road. Salisha identified the creatures harrassing the cart to be satyrs. Everyone agreed that they had to aid the travelers.
 
-- Salisha identified the creatures harrassing the cart to be satyrs.
-- The group rode hard toward the cart, one of the satyrs heard the approach. Everyone except Urimo ended up 150' away from the cart, while his pony is 200' away.
-	- Kylantha cast mage armor on herself
+- Salisha and Bodalf dashed down one side of the road, while Vezoth, Kylantha, and Rantigan dashed down the other side.
+- They got within 180 ft without being noticed
+
+### Surprise Round
+
+- Bodalf dashed to 120' away
+- Salisha closed to 150' and fired an arrow at Satyr (6hp)
+- Rantigan dashed to 130' away
+- Kylantha dashed to 120' away
+- Vezoth dashed to 120' away
 
 ### Round 1
-- Kylantha closed to range for her acid splash spell (60')
-- Ademar closed to range for his short bow (80')
-- Satyr-1 whooped out obscenities and crude taunts and it drew its shortbow and fired at Kylantha, striking her for 8 hp.
-	- she fell from her horse, dying
-- Urimo dashed. now 120' away.
-- Satyr-2 also yelled crude taunts while continuing to harass the commoners.
-- Salisha dismounted with her bow, but missed Satyr-1.
-- Vezoth dashed to where Kylantha fell
+
+- Satyr-pp turned and approached 40' and drew out his panpipes
+- Bodalf dashed to 20' away from Satyr-pp
+- Salisha targeted Satyr-pp (9hp)
+- Rantigan closed to 65' from Satyr-p and fired an arrow 
+- Satyr left the wagon and fired at Bodalf, missing
+- Kylantha launched 3 magic missiles at Satyr-p (11hp)
+- Vezoth closed to 80/50' and called down *sacred flame* on Satyr-p, but the satyr dodged the spell
 
 ### Round 2
-- Kylantha succeeded at stabilizing roll
-- Ademar dismounted and fired at Satyr-1, missing
-- Satyr-1 fired at Vezoth, but failed to penetrate his armor
-- Urimo dashed, now 40' away
-- Satyr-2 approached 20' and played a frightening strain DC 13 Wis on his panpipes (Urimo, Vezoth, and Ademar in range).
-	- Ademar frightened, Vezoth unaffected, Urimo unaffected
-- Salisha moved a bit closer and nailed Satyr-2 (11 hp)
-- Vezoth dismounted and cast spare the dying on Kylantha
-
-### Round 3
-- Kylantha is stabilized
-- Ademar tried to shoot at Satyr-2, but his fear made his shot go very wide
-- Satyr-1 fired at Urimo, but it hit the shield
-- Urimo engaged Satyr-2, striking him with his sword (7 hp)
-- Satyr-2 disengages towards the woods
-- Salisha nailed Satyr-2 again 
-- Vezoth called down sacred flame on Satyr-1 (3 hp)
+- Satyr-p played a *frightening strain* before bolting towards the woods
+	- Vezoth, Bodalf both successfully saved versus the effect
+- Bodalf closed with Satyr and entering a rage swung his greataxe (16hp)
+- Salisha targeted the fleeing Satyr-p, but missed
+- Rantigan targeted the fleeing Satry-p (6hp) killing it
+- Satyr disengaged from Bodalf, attempting to flee to woods
+- Kylantha launch 3 magic missiles at fleeing Satyr (12hp) killing it
 
 ### Conclusion
-As the satyrs broke away and fled, Salisha called out to let them go - they could easily lead us into a trap.
 
-- Vezoth healed Kylantha's wounds, giving her a rebuke for not keeping to a safe distance.
-	- Kylantha apologized for getting swept up in the moment
-	- Salisha applauded her fighting spirit
+The group searched over the corpses of the satyrs and checked on the family
+
 - Each party member earned 40 XP
 
 ## The Family
@@ -52,6 +50,7 @@ As the satyrs broke away and fled, Salisha called out to let them go - they coul
 Talked to the shaken family, and rode with them the rest of the way into Frickley, learning of the woes of their village of Scorton.
 
 - questions for the family?
+- Kylantha short rested for arcane recovery
 
 ## The Frickley Decision
 
