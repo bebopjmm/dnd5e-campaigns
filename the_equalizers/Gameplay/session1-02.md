@@ -19,10 +19,10 @@ There are plenty of handholds on the tree, so everyone attempted to stealthily c
 
 ### Round 1
 
-- Ademar saw the oncoming centipedes, drew his rapier and stabbed GS-1, killing it.
+- Rantigan saw the oncoming centipedes, drew his rapier and stabbed GS-1, killing it.
 - Kylantha backed away from the tree and hurled an acid splash, but the centipede dodged it
-- GS-3 attempted to bite Urimo, but the halfling fended it off
-- Drawing his longsword, Urimo hacked GS-3 in half
+- GS-3 attempted to bite Bodalf, but the barbarian fended it off
+- Bodalf hacked GS-3 in half with his greataxe
 - Vezoth smashed the third and final centipede with his mace
 
 Everyone good, they pressed onward.
@@ -38,43 +38,35 @@ The forest path curved to the north. The air ahead seemed to be getting strangel
 - Salisha commented that the structure was obviously not natural
 - Bayle believed it to clearly be fey magic and they should leave it alone
 - Kylantha (23 Intelligence(Arcana)) agreed that it was a magical construct, but was skeptical that fey magic was the source
-- Ademar's curiousity got the best of him and he touched the structure, causing the entire pyramid to crack and shatter into thousands of pieces
+- Rantigan's curiousity got the best of him and he touched the structure, causing the entire pyramid to crack and shatter into thousands of pieces
 
 Two small winged humanoids made entirely of ice emerged and attacked!
 
 ### Round 1
 
-- Ademar stabbed at IM-1 with his rapier, hitting (9 hp)
-- Urimo engaged IM-2 with his longsword, hitting (7 hp)
-- Vezoth cast bless, affecting himself, Urimo and Salisha
-- Kylantha backed away 30 and cast magic missile with all 3 bolts hitting IM-1 (11 hp) and killing it
-	- death burst (Ademar saves 2hp, Urimo takes full brunt 6hp)
-- Salisha draws her shortswords and engaged IM-2, hitting with both
-- IM-2 exhaled a 15ft cone of frigid air (Urimo, Salisha, Vezoth)
-	- thanks to Vezoth's blessing everyone saved for half dmg (3hp)
+- Bodalf entered a rage and struck IM-1 with his greataxe (13hp)
+- Rantigan stabbed at IM-1 with his rapier, killing it (14hp)
+	- death burst (Bodalf, Rantigan both save )
+- Kylantha backed away 30 and cast magic missile with all 3 bolts hitting IM-2 (11 hp)
+- Vezoth struck IM-2 with his mace, shattering it (14 hp)
+	- death burst (Vezoth, Salisha both save)
 
-### Round 2
-
-- Ademar stabbed at IM-2 with his rapier, killing it (12 hp)
-	- death burst (Ademar, Urimo, Salisha all save for 3hp)
-	- Urimo falls dying from his wounds, but Vezoth quickly stabilizes him with spare the dying
 
 ### Babano
 
-Everyone takes a short rest. Everyone injured used their healing
+Everyone takes a short rest. 
 
-- Vezoth and Salisha tended to Urimo
-	- Vezoth is hesitant to use his last curing spell
-- Ademar retrieved a sizable blue gem from the now melting ice shards
+- Everyone injured used their healing during the rest. 
+- Kylantha performed arcane recovery
+- Rantigan retrieved a sizable blue gem from the now melting ice shards
 	- its a sapphire and quite valuable (10 Intelligence for appraisal)
-- Bayle asked what manner of fey creature those were. Kylantha realized they were ice mephits, capricious, imp-like creatures native to the elemental planes. 
+- Bayle asked what manner of fey creature those were. Kylantha realized they were ice mephits, capricious, imp-like creatures native to the elemental planes and not actual fey. 
 
 At this point, they group heard a tuneless whistling approaching them from further down the path. Drawing her bow, Salisha called out to the person to identify themselves. An older man, obviously a woodsman, came sautering around the corner, oblivious to Salisha's call. She was about to call out again when he noticed the group, and greeted them.
 
 - Babano introduced himself and thanked the group for taking care of the pesky mephits
 	- commented about the death burst and offered 6 goodberries, which the group accepted with thanks
-- Vezoth fed a goodberry to Urimo, which revived the paladin. He kept 3 and gave the other 2 to Salisha
-- Urimo used his lay on hands to heal himself and Ademar
+	- Vezoth took 2, everyone else took 1
 
 Babano asked what had brought the party into the High Forest.
 
@@ -95,8 +87,8 @@ Remembering the druid's warning, the group approached with caution. Salisha deci
 
 Reporting back to the group, they decide to attempt at sneaking past the stone.
 
-- Vezoth and Urimo will lead, with Ademar a bit further back
-- Salisha, Kylantham and Bayle will trail and provide cover fire if anything reveals itself
+- Vezoth and Bodalf will lead, with Ademar a bit further back
+- Salisha, Kylantha and Bayle will trail and provide cover fire if anything reveals itself
 
 
 
