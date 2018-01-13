@@ -87,8 +87,12 @@ Remembering the druid's warning, the group approached with caution. Salisha deci
 
 Reporting back to the group, they decide to attempt at sneaking past the stone.
 
-- Vezoth and Bodalf will lead, with Ademar a bit further back
+- Vezoth and Bodalf will lead, with Rantigan a bit further back
 - Salisha, Kylantha and Bayle will trail and provide cover fire if anything reveals itself
+
+As soon as Vezoth, Bodalf and Rantigan got with 150' of her lair, the harpy unleashed her *luring song*. Unfortunately everone was within range of the effect (DC 11 Wisdom save).
+
+- 
 
 
 
