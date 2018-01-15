@@ -43,7 +43,6 @@ Suddenly shouts and cries from up ahead were heard. Rounding the corner they saw
 
 The group searched over the corpses of the satyrs and checked on the family
 
-- Each party member earned 40 XP
 - Rantigan kept the pan pipes
 - Bodalf was frustrated that Kylantha 'took his kill'. She responded that next time she would let him chase it into the forest
 

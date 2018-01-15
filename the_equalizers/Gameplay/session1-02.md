@@ -92,7 +92,66 @@ Reporting back to the group, they decide to attempt at sneaking past the stone.
 
 As soon as Vezoth, Bodalf and Rantigan got with 150' of her lair, the harpy unleashed her *luring song*. Unfortunately everone was within range of the effect (DC 11 Wisdom save).
 
-- 
+### Surprise Round
+
+- Bodalf, Rantigan, and Bayle succumb to the effect of the song and both dash towards the rock
+
+### Round 1
+
+- Rantigan reached the rock base and shook off the charm effect of the song (14 Will save)
+- Harpy continued her song cloistered within the rock formation eye socket
+- Kylantha dashed to get closer to the rock formation and spotted the harpy within (15 Perception)
+- Bodalf reached the rock base but could not shake of the effect of the song
+- Salisha dashed to get closer to the rock formation and mistook where the harpy is located (1 Perception)
+- Vezoth chased Bodalf with the intent to tackle the barbarian.
+- Bayle dashed towards the rock formation (140' away)
+
+### Round 2
+
+- Rantigan realized that Bodalf was still under the song's effect and Helped Vezoth stop the barbarian from climbing the rock formation
+- Harpy continued her song, hidden within the rock formation eye socket
+- Kylantha cast *magic missile* at Harpy, all three missiles hitting (13 hp)
+- Bodalf started climbing the rock formation, even with the halfling around his legs, but Vezoth successfullly pulled him down prone before he could get much purchase. Bodalf remained under the spell's effect
+- Not paying close enough attention to Kylantha and her spell, Salisha fired an arrow into the wrong area.
+- Bayle dashed towards the rock formation (80' away)
+
+### Round 3
+
+- Rantigan continued to aid Vezoth in restraining the barbarian
+- Realizing a mage had spotted her, the Harpy flew out to deal with Kylantha (dashed 80'). The song continued.
+- Concerned about the situation, Kylantha cast *mage armor* on herself and called to Vezoth to aid her
+- Bodalf failed to escape from Vezoth but remained under the song's effect
+- Salisha fired and arrow and struck the approaching Harpy (10 hp)
+- Vezoth released the barbarian and dashed back towards Kylantha
+- Bayle turned back to dash towards the Harpy
+
+### Round 4
+
+- Realizing that Vezoth had scampered, Rantigan released Bodalf and ran away from the barbarian (hey I'm not going to catch this psychopath's wrath)
+- Cowards that harpies are, Harpy quickly decided this group was NOT going to make easy prey and flew into the forest, stopping her song.
+
+### Conclusion
+
+- Bodalf and Bayle recovered quickly from the spell's effects
+	- luckily for Vezoth and Rantigan, Bodalf held no ill feelings towards them
+- Rantigan thought it would be a good idea to check out the harpies lair before she returned
+	- Bodalf volunteered to make the climb, and made it easily.
+	- the sun provided enough light for Bodalf to find 75 gp of mixed coins
+	- the climb down was a bit more difficult, but Bodalf succeeded without incident
+
+## Jahia's Cottage
+
+The path continued around the Weeping Rock. After another mile the party reached Jahia’s Cottage. The small, bucolic cottage appeared rather out-of-place. Made from sturdy wooden logs, it was surrounded by a very tidy garden with only a low fence separating it from the forest.Between two large trees was a netted hammock. Lying in the hammock was a half-elven woman wearing a simple white shirt and leather trousers; her blonde hair streaked with gray, and she was snoring gently. A silvery medallion around her neck glinted in the light, and a sheathed longsword rested against a tree trunk within easy reach.
+
+- Salisha hailed the woman, awakening her
+- Once awake, Jahia greeted the adventurers cordially, but without much warmth or enthusiasm. She listened to their story, but laughed bitterly when they ask for help.
+	- The legend of the Giantslayer, she explained, has become rather exaggerated over the years. She did deliver the killing blow to a rampaging frost giant, but that was with the help of several other adventurers. The creature had also sustained wounds from a previous battle with the dwarves.
+	- On top of that, she was young at the time and at her physical peak. She’s still a powerful fighter, but is nowhere near as strong and skillful as she once was. Facing Bonecruncher will mean certain death.
+- Prior to addressing Jahia, Vezoth cast *guidance* upon himself
+- Vezoth then attempted to persuade her, helped by Kylantha, Rantigan, and Salisha
+	- the others prove helpful, granting Vezoth advantage (22 Charisma (Persuade))
+
+Shaking her head, Jahia threw up her hands in surrender, mutter “we all have to die sometime”. She told the party to stay the night and they would return to Frickly on the morrow.	
 
 
 
