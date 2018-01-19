@@ -51,6 +51,22 @@ Badly wounded and very angry the hill giant pursued.
 
 - Jahia struck the killing blow on the giant
 
+Inside the hill giant's sack was
+
+- 4 large loaves of moldy bread
+- a riding saddle of good quality 
+- mangy fur pelt of a crag cat
+
+
 ## Conclusion
 
-Great celebration! 
+Great celebration! Jahia agreed to stay in Frickley, finally accepting a place in the community she left so long ago.
+
+- Pello gave the group their reward
+- Ithro gave Salisha a letter of recommendation to present to Daratha Shendrel of Triboar, who always needs reliable adventurers
+- Jahia gave her giantslayer medallion to the party
+	- She tells the group of Urgala Meltimer and Ghelryn Foehammer in Triboar as reliable
+-  Nilril told Kylantha that the debt had been repaid, but if she wished to travel on to Triboar, he would send a missive to Leomenor that his task requires Kylantha to travel onward.
+	-  she took him up on his offer
+
+**Everyone leveled up to level 2!** 
