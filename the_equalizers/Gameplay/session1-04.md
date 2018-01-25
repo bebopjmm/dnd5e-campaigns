@@ -86,6 +86,24 @@ After reporting back to the others, the heroes decided so set up an ambush.
 
 ### Conclusion
 
-1. Short rest and healing time, search and loot the orcs...
-2. Talk to the haflings ...
-3. Head to the ravaged homestead ...
+Rantigan searched the dead orcs as the others rested, healed, and checked on the condition of the halfling prisoners.
+
+- the orcs had no treasure on them, but one had a bone token bearing a strange rune
+	- no one recognizes the rune, but it is doubtful that it is orcish
+	- Kylantha keeps the token
+- the halfings are not badly injured but bruised and shaken from the experience
+	- Ollie Woodhew is one of the clan patriarchs and related the story
+	- Salisha is puzzled because the Iceshield lands lie more to the northeast, but the orcs were taking these prisoners southwest.
+
+The heroes agree to take the halflings back to their homestead, a journey that takes the rest of the day.
+
+## Evacuation to Newsham
+
+The homestead had been torched after the pillaging, but six other family members who avoided capture had returned. The reunion was joyful.
+
+- Clan decides to make for nearby halfling village of Newsham on the morrow.
+- The heroes decide to escort them to ensure they arrive safely
+
+That night the heroes joined the clan in honoring the dead and celebrating the reunion.
+
+Newsham is only a half day's walk from the homestead.
