@@ -8,7 +8,7 @@ Salisha's parents lived outside of the village close to the western edge of the 
 
 - parents welcomed Salisha's comrades and insisted on hearing the tale of their exploits over dinner.
 	- lots of reports of increased hill giant activity in the area
-	- 
+
 - Salisha explained that she intended to join the heroes onwards to Triboar
 	- parents were supportive
 	- father tells Salisha to take Roshia as her steed
@@ -30,3 +30,62 @@ After dinner her father broached the topic of the Emerald Enclave
 ### Departure
 
 Salisha's parents ensured the heroes were well provisioned and bid them safe travels.	
+
+## The Woodhew Halflings
+
+Salisha led the group over little known trails that would take them to Beliard. Just after mid-day, shouts and whip cracks were heard.
+
+- Salisha and Bodalf went to scout the situation. 
+- saw 10 orcs (Salisha identified them as Iceshield) pushing 4 halfling prisoners along. They were heading SW towards the heroes.
+
+After reporting back to the others, the heroes decided so set up an ambush.
+
+- target scouts first
+- bodalf and vezoth will engage in melee, salisha and kylantha in ranged attacks, rantigan will sneak attack and attempt to free the prisoners
+
+### Surprise Round
+
+- Rantigan sniped Orc1 with shortbow and hid (nat20 stealth)
+- Vezoth cast *sacred flame* on Orc1, killing it and moved to engage in melee
+- kylantha cast *magic missile* at Orc2 (11hp)
+- Bodalf hurled a javelin at Orc2, killing it and moved to engage in melee
+- Salisha hit Orc3 (4hp)
+
+### Round 1
+
+- Orc5 left the prisoners and moved to strike Vezoth (8hp)
+- Rantigan sniped Orc3 (14hp) killing it and hid (21 stealth)
+- Vezoth breathed a cone of cold, effecting Orc4 and Orc5 (both fail, 12hp)
+- Orc10 shrugged off his pack of pillaged goods to prepare for combat
+- Kylantha hurled an *acid splash* at Orc4 (3hp) killing it
+- Orc8 shrugged off his pack of pillaged goods to prepare for combat
+- Bodalf entered a rage and engaged Orc6 (8hp)
+- Salisha targeted Orc7(6hp)
+- Orc7 shrugged off his pack of pillaged goods to prepare for combat
+- Orc9 shrugged off his pack of pillaged goods to prepare for combat
+- Orc6 attacked Bodalf(6hp)
+
+### Round 2
+
+- Orc5 attacked Vezoth, dropping him (10hp), he then moved to flank Bodalf, but Rantigan sniped him.
+- Orc10 engaged Bodalf, but missed
+- Kylantha cast *magic missile* at Orc7(10hp), killing it.
+- Orc8 engaged Bodalf, hitting him (5hp)
+- Bodalf switched his attack to Orc8 (15hp) and slew it
+- Salisha targeted Orc9 (10hp) and ran towards Vezoth
+- Orc9 engaged Bodalf(5hp)
+- Orc6 missed Bodalf
+
+### Round 3
+- Rantigan dashed to reach the cowering halfing prisoners
+- Orc10 hit Bodalf(6hp)
+- Kylantha cast *magic missile* at Orc10(15hp) killing it
+- Bodalf slew Orc6(16hp)
+- Salisha reach Vezoth and gave him a healing potion
+- Orc9 flees, but Salisha ends up sniping him
+
+### Conclusion
+
+1. Short rest and healing time, search and loot the orcs...
+2. Talk to the haflings ...
+3. Head to the ravaged homestead ...
