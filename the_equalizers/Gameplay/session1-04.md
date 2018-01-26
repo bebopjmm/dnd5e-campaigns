@@ -100,11 +100,15 @@ The heroes agree to take the halflings back to their homestead, a journey that t
 
 ## Evacuation to Newsham
 
-The homestead had been torched after the pillaging, but six other family members who avoided capture had returned. The reunion was joyful.
-
-- Clan decides to make for nearby halfling village of Newsham on the morrow.
-- The heroes decide to escort them to ensure they arrive safely
+The homestead had been torched after the pillaging, but six other family members who avoided capture had returned. The reunion was joyful. The clan decided to make for the nearby halfling village of Newsham, a half day’s travel west.
 
 That night the heroes joined the clan in honoring the dead and celebrating the reunion.
 
-Newsham is only a half day's walk from the homestead.
+Next day, Kylantha and Rantigan ride with halfling ahead to Newsham to arrange carts to aid in moving the halflings. They return by nightfall.
+
+Vezoth helps tend the wounded. Bodalf and Salisha scout the area for any other threats.
+
+The clan is packed and ready to travel the following day. The heroes decide to escort them to ensure they arrive safely.
+
+The Heroes ended up spending a couple of days in Newsham helping with arrangements. Before they left for Beliard, the clan gave them a gift, a **cloak of elvenkind**. It was decided that the cloak should go to Salisha.
+
