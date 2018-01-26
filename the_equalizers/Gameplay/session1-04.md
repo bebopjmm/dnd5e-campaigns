@@ -92,7 +92,8 @@ Rantigan searched the dead orcs as the others rested, healed, and checked on the
 	- no one recognizes the rune, but it is doubtful that it is orcish
 	- Kylantha keeps the token
 - the halfings are not badly injured but bruised and shaken from the experience
-	- Ollie Woodhew is one of the clan patriarchs and related the story
+	- Ollie Woodhew, one of the clan patriarchs, related the story
+		- Orcs seemed to be under orders from Guh
 	- Salisha is puzzled because the Iceshield lands lie more to the northeast, but the orcs were taking these prisoners southwest.
 
 The heroes agree to take the halflings back to their homestead, a journey that takes the rest of the day.
