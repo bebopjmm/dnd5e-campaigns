@@ -1,4 +1,4 @@
-# The Road to Triboar, session 04
+# Session 1-04: The Road to Triboar, pt 1
 
 The heroes made their farewells to the villagers of Frickley the next morning and travelled to Salisha's home village of Breckton, arriving late in the day.
 
@@ -24,8 +24,9 @@ After dinner her father broached the topic of the Emerald Enclave
 - no one else really aligned with the faction
 	- Vezoth dedicated to Bahamut and his commitment to Kylantha
 	- Rantigan and Kylantha not interested in binding themselves that kind of commitment
-- father took them to another part of the house for the induction while mother stayed with the rest of the heroes.
-	- Both Salisha and Bodalf received the leaf clasp insignia of the Emerald Enclave
+- father took them to another part of the house for discussions while mother stayed with the rest of the heroes.
+	- Both Salisha and Bodalf received a letter of sponsorship
+	- They will need to travel to Goldenfields to be officially inducted
 
 ### Departure
 
@@ -49,7 +50,7 @@ After reporting back to the others, the heroes decided so set up an ambush.
 - Vezoth cast *sacred flame* on Orc1, killing it and moved to engage in melee
 - kylantha cast *magic missile* at Orc2 (11hp)
 - Bodalf hurled a javelin at Orc2, killing it and moved to engage in melee
-- Salisha hit Orc3 (4hp)
+- Salisha cast *hunter's mark* hit Orc3 (10hp)
 
 ### Round 1
 
@@ -60,7 +61,7 @@ After reporting back to the others, the heroes decided so set up an ambush.
 - Kylantha hurled an *acid splash* at Orc4 (3hp) killing it
 - Orc8 shrugged off his pack of pillaged goods to prepare for combat
 - Bodalf entered a rage and engaged Orc6 (8hp)
-- Salisha targeted Orc7(6hp)
+- Salisha targeted Orc7(11hp)
 - Orc7 shrugged off his pack of pillaged goods to prepare for combat
 - Orc9 shrugged off his pack of pillaged goods to prepare for combat
 - Orc6 attacked Bodalf(6hp)
@@ -72,7 +73,7 @@ After reporting back to the others, the heroes decided so set up an ambush.
 - Kylantha cast *magic missile* at Orc7(10hp), killing it.
 - Orc8 engaged Bodalf, hitting him (5hp)
 - Bodalf switched his attack to Orc8 (15hp) and slew it
-- Salisha targeted Orc9 (10hp) and ran towards Vezoth
+- Salisha targeted Orc9 (13hp) and ran towards Vezoth
 - Orc9 engaged Bodalf(5hp)
 - Orc6 missed Bodalf
 
