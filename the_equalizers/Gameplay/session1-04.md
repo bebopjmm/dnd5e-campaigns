@@ -14,7 +14,7 @@ Salisha's parents lived outside of the village close to the western edge of the 
 	- father tells Salisha to take Roshia as her steed
 		- recommended to get horses for others from Halamar's Horses in Beliard
 
-### The Emerald Enclave Induction
+### The Emerald Enclave
 
 After dinner her father broached the topic of the Emerald Enclave
 
