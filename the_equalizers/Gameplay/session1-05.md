@@ -4,3 +4,9 @@ The following morning, the heroes departed Newsham for Beliard. The trip took mo
 
 ## Beliard
 
+Arriving at the gate near sundown, the heroes made for the Watchful Knight to get rooms for the night.
+
+### Rumors and News
+
+### Supplies
+

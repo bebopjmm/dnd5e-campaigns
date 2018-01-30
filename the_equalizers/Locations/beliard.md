@@ -14,10 +14,19 @@ This venerable, popular, and several-times-expanded inn was named for an inopera
 
 The stables are located on the eastern side of Beliard and operated by Blasko Halamar.
 
+### Redfist Trading Post (general store)
+
+
 ## NPCs of Note
 
-### Innkeeper
+### Arof Rivermore (innkeeper)
 
 ### Blasko Halamar (stablemaster)
 
 Blasko Halamar is an stout ex-warrior and stable owner of Halamar's Horses. Blasko enjoys telling stories about adventures, orc battles, and treasure; his favorite tale was about riches buried by wealthy ladies fleeing the fall of Netheril. Halamar is known for his shady side as well, buying lame horses and then reselling them at marked up prices.
+
+### Camey Redfist (storekeep)
+
+### Renne Middleton (rancher)
+
+Renne Middleton is the unofficial leader of the ranchers surrounding Beliard.
