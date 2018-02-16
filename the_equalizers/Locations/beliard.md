@@ -20,6 +20,7 @@ The stables are located on the eastern side of Beliard and operated by Blasko Ha
 ## NPCs of Note
 
 ### Arof Rivermore (innkeeper)
+Following the mysterious disappearance of the original innkeeper, Arof, took over managing the Watchful Knight.
 
 ### Blasko Halamar (stablemaster)
 
