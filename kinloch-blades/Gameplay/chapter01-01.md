@@ -29,7 +29,7 @@ Since the group had nothing to do but wait until morning, Lynn invited the other
 
 ### Heading Out
 
-True to Gundren's word, Jonas and Kenan had the wagon loaded and oxen hitched the next morning by the time the heroes arrived at the warehouse. They review the collection of goods with the heroes:
+True to Gundren's word, Jonas, Kenan, and a friend had the wagon loaded and oxen hitched the next morning by the time the heroes arrived at the warehouse. They review the collection of goods with the heroes:
 
 1. 12 sacks of flour
 2. 7 casks of salted pork
@@ -38,8 +38,39 @@ True to Gundren's word, Jonas and Kenan had the wagon loaded and oxen hitched th
 5. five lanterns
 6. on small barrel of oil
 
+Craiuk was intensely focused on the wagon invoice, but the others all picked up on a disturbing ill manner about the friend of Jonas and Kenan.
+
 No one is particularly proficient driving a wagon, but Ethon and Craiuk take on the driving assignment. Lynn and Domhnall walk alongside or ride on the wagon intermittently. At the end of each day, the heroes make camp, feed and water the oxen, and set watches. They arrived at the Triboar Trail by the end of the second day.
+
+- on the second day they see a castle upon a large cloud heading southeast.
 
 ## Goblin Ambush
 
+At midday the heroes came across the aftermath of an attack on the Triboar Trail.
+
+- Lynn went to investigate, while Craiuk readied his shortbow, Ethon dismounted from the wagon, and Dohmnall cast *mage armor* upon himself
+	- Lynn recognizes the Rockseeker Mining Crest on the saddlebags.
+- Craiuk and Ethon both notice goblins in the area, but cannot get a warning out in time.
+
+### Surprise Round
+
+- G4 shoots at Lynn and hits for 5hp, and then hides
+- G3 rushes down to wagon and strike ox-1 for 5hp
+- G5 rushes down to wagon but misses ox-2
+- G2 shoots at Lynn but misses, and then hides
+- Craiuk fires his shortbow at G3, killing it
+- G1 rushes down to wagon and hits Dohmnall for 5hp
+- G6 rushes down to wagon and misses Ethon
+- Ethon casts *hand of radiance* (G5, G6), G6 takes 3hp
+
+### Round 1
+
+- Lynn closes on G1, who deflect her rapier only to be stabbed through the throat by her shortsword (9 hp)
+- G4 shoots at Lynn but misses
+- G5 stabs ox-2 for 5hp
+- G2 shoots at Ehton but misses and then hides
+- Dohmnall spots G2 and creates a *minor illusion* of a bear as close a possible.
+- Craiuk also spots G2 and hits with arrow for 5hp
+- G6 misses Ethon and disengages back to woods
+- Ethon ...
 
