@@ -66,11 +66,51 @@ At midday the heroes came across the aftermath of an attack on the Triboar Trail
 ### Round 1
 
 - Lynn closes on G1, who deflect her rapier only to be stabbed through the throat by her shortsword (9 hp)
-- G4 shoots at Lynn but misses
-- G5 stabs ox-2 for 5hp
-- G2 shoots at Ehton but misses and then hides
-- Dohmnall spots G2 and creates a *minor illusion* of a bear as close a possible.
+- G4 shoots at Lynn but misses and then hides
+- G5 stabs ox-2 for 5hp, then disengages and moves to tree cover
+- G2 shoots at Ethon but misses and then hides
+- Dohmnall spots G2 and creates a *minor illusion* of a bear growling near the goblin.
 - Craiuk also spots G2 and hits with arrow for 5hp
-- G6 misses Ethon and disengages back to woods
-- Ethon ...
+- G6 misses Ethon and disengages and moves back to woods
+- Ethon readies his mace to engage any goblin returning
+
+### Round 2
+
+- Lynn pursues G5 with a dash and uses action surge to attack missing with the shortsword, but knicking it with her rapier (4hp)
+- G4 shoots at Ethon, missing. it then hides
+- G5 attacks Lynn, missing. it then disengages and moves closer to G6
+- G2 fails the Intelligence (Investigation) check and becomes convinced he is about to be eaten by a bear. It flees to the goblin trail.
+- Dohmnall moves under the wagon to behind Ethon and hides
+- Craiuk shoots at G6 but misses
+- G6 closes on Lynn and slashes her with its scimitar (5hp) before disengaging
+- Ethon dashes to reach Lynn's side.
+
+### Round 3
+
+- Lynn take second wind (7hp) before closing on G6 and piercing its heart with rapier as she also slashes its throat open with shortsword (17hp)
+- G4 shoots at Lynn, missing, and hides (13 stealth)
+- G5 closes to attack Lynn, knicking her (3hp), and then disengaging
+- G2 continues to flee
+- Dohmnall looks for G4, but can't spot him.
+- Craiuk, however, does spot G4 and fires an arrow but misses
+- Ethon moves to Lynn and casts *cure wounds*, healing 9hp
+
+### Round 4
+
+- Lynn closes on G5 but can't get a hit on it
+- G4 shoots at Lynn, missing, and hides (8 stealth)
+- G5 slashes Lynn (8 hp), disengages and moves
+- G2 continues to flee
+- Dohmnall doesn't see G4, but he does see G5 and fires *magic missile*, killing it (9hp)
+- Craiuk spots G4 and hits it with an arrow (5hp)
+- Ethon dashes towards G4
+
+### Round 5
+- Lynn dashes towards G4
+- G4 dashes towards the road and hides in some underbrush (14 stealth)
+- Dohmnall can't see G4
+- Craiuk spots G4 and puts an arrow through its eye (13hp)
+
+### Aftermath
+
 
