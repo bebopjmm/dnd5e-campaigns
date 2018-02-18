@@ -68,7 +68,7 @@ At midday the heroes came across the aftermath of an attack on the Triboar Trail
 - Lynn closes on G1, who deflect her rapier only to be stabbed through the throat by her shortsword (9 hp)
 - G4 shoots at Lynn but misses and then hides
 - G5 stabs ox-2 for 5hp, then disengages and moves to tree cover
-- G2 shoots at Ethon but misses and then hides
+- G2 shoots at Ethon but misses and then hides (11 stealth)
 - Dohmnall spots G2 and creates a *minor illusion* of a bear growling near the goblin.
 - Craiuk also spots G2 and hits with arrow for 5hp
 - G6 misses Ethon and disengages and moves back to woods
@@ -101,18 +101,17 @@ At midday the heroes came across the aftermath of an attack on the Triboar Trail
 - G4 shoots at Lynn, missing, and hides (8 stealth)
 - G5 slashes Lynn (8 hp), disengages and moves
 - G2 continues to flee
-- Dohmnall doesn't see G4, but he does see G5 and fires *magic missile*, killing it (9hp)
+- Dohmnall sees both G4 and G5. He targes G5 with a *magic missile*, killing it (9hp)
 - Craiuk spots G4 and hits it with an arrow (5hp)
 - Ethon dashes towards G4
 
 ### Round 5
 - Lynn dashes towards G4
-- G4 dashes towards the road and hides in some underbrush (14 stealth)
+- G4 dashes towards the road and hides in some underbrush (13 stealth)
 - Dohmnall can't see G4
 - Craiuk spots G4 and puts an arrow through its eye (13hp)
 
 ### Aftermath
-
 
 Everyone regrouped and took a closer look at the horses.
 
@@ -129,4 +128,31 @@ While technically only hired to deliver goods, it was obvious that Gundren and S
 
 - Craiuk specifically mentioned that one goblin got away and that the lair would likely be on alert. Waiting until morning could make them believe the heroes continued down the trail.
 
-The group made camp and setup watches ...
+The group made camp and setup watches. The night proved uneventful.
+
+## The Goblin Trail
+
+The next morning, the heroes backtracked on foot to where the ambush took place. The approach stealthily, but no goblins lurk here. Craiuk and Ethon inspect the area while Lynn and Dohmnall keep watch.
+
+- lots of goblin tracks indicate they have been using this as an ambush site for some time.
+- Craiuk locates a a hidden trail behind the north side thickets that leads NW.
+- Ethon recognizes that about a dozen goblins have come and gone along the trail recently, as well as signs of two human-sized bodies being dragged away from the ambush site.
+
+Following the trail at a cautious pace, marching order:
+
+1. Ethon
+2. Lynn
+3. Dohmnall
+4. Craiuk
+
+### The Snare
+
+About 10 minutes down the trail, Ethon signals a halt. He has spotted a snare trap. Craiuk disables it and the group presses forward.
+
+### The Pit
+
+Another 10 minutes down the trail, Ethon stops abruptly signalling a halt. He had detected a pit trap just in time. It was easy enought to bypass.
+
+### Finding the Hideout
+
+After traveling about 5 miles along the trail the heroes came upon the hideout.
