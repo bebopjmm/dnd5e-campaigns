@@ -114,3 +114,19 @@ At midday the heroes came across the aftermath of an attack on the Triboar Trail
 ### Aftermath
 
 
+Everyone regrouped and took a closer look at the horses.
+
+- Craiuk found the empty map case.
+- Lynn and Dohmnall called out the Rockseeker crest on the saddlebags
+
+Ethon reminded everyone that staying at this spot was not wise. Recommended finding a more secluded spot to rest and decide what to do next.
+
+- Ethon found a suitable spot about 30 minutes later. The oxen could graze and get water, and the wagon could be sufficiently hidden.
+
+#### Continue to Phandalin or track down goblins?
+
+While technically only hired to deliver goods, it was obvious that Gundren and Sildar ran into trouble and were probably prisoners of the goblins. Everyone agreed they should go look for them. As it was already late in the day, the general concurrence was to go look in the morning.
+
+- Craiuk specifically mentioned that one goblin got away and that the lair would likely be on alert. Waiting until morning could make them believe the heroes continued down the trail.
+
+The group made camp and setup watches ...
