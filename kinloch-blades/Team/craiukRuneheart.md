@@ -6,17 +6,17 @@
 
 Lawful Good Male Shield Dwarf Rogue (2)
 
-## Background (Faction Agent: Lords Alliance)
+## Background (Antiquarian)
 
 ## Personality
 ### Traits
 
 - **Perfectionist**: I believe that anything worth doing is worth doing right.
-- **Competitive**: I never pass up a friendly wager
+- **Adventure**: I enjoy going through ruins for the adventure; getting to experience lost history is just a bonus.
 
 ### Ideal
 
-- **Logic**: Emotions must not cloud our logical thinking
+- **Betterment**: By studying the mistakes of our elders, we might prevent the mistakes of our children.
 
 ### Bond
 
@@ -24,7 +24,8 @@ Lawful Good Male Shield Dwarf Rogue (2)
 
 ### Flaw
 
-- **Stubborn**: I’d rather shave my beard than admit when I am wrong
+- **Obsessive**: My obsessive search for my clan relic has pushed my loved ones away.
 
 ## Key Story Events
 
+1. **Strange Map**: An ancient map showing a forgotten dwarf stronghold beneath the Sumber Hills has come into your possession. Though incomplete and faded, it has the name Tyar-Besil written on it in dwarven.
