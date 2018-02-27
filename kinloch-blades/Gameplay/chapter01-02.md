@@ -108,3 +108,39 @@ The group decides to deal with who or whatever TPG4 alerted, rather than chase a
 
 ## Klarg's Cave
 
+Triggering event: Domhnall creates silent image of a goliath warrior and has it stride into the chamber
+
+- Ripper is not fooled but all the others are. Two arrows and a javelin pass through the image 
+
+### Round 1
+
+- Craiuk moves into the chamber and sees that the nearest opponent to him is GG1. Closing to engage, he stabs (3hp) and then disengages to cover amongst the supplies.
+- Ethon moves into the chamber, engages Klarg, and strikes a glancing blow (3hp)
+- Ripper rushes Ethon, but he fends off the wolf with his shield
+- GG2 fires an arrow at Ethon, but hits Ripper instead (4hp)
+- GG1 switches to scimitar/shield and goes after Craiuk, brutal stab (8hp)
+- Domhnall follows Ethon in and moves to NE alcove. He casts **frostbite** on GG1, but it resists the effect
+- Lynn charges in and engages Ripper, missing with the rapier, but piercing with the shortsword (9hp)
+- Enraged, Klarg swings at Ethon but misses with the morningstar
+
+### Round 2
+
+- Craiuk stabs GG1, killing it. He then moves to cover amongst the supplies and Hides (19 Stealth - GG2 loses track of him)
+- Ethon hits the bugbear again (6hp)
+- Ripper turns his attack to Lynn, biting her fiercely (9hp)
+- GG2 then hits Lynn with an arrow (8hp) dropping her
+- Domhnall casts **magic missile** with one missile hitting and killing Ripper (3hp) and two missiles hitting Klarg
+- Lynn succeeds at first death save
+- Klarg disengages and flees down the natural chimney
+
+### Round 3
+
+- Craiuk shoots but misses GG2, then moves amongst the supplies again and Hides (13 Stealth - GG2 loses track of him)
+- Ethon cast **spare the dying** on Lynn, stabilizing her and then goes to see where the bugbear went
+
+Decision to let Klarg flee. Everyone needs rest, so they set up watch and do a short rest.
+
+- Ethon casts **cure wounds** on Lynn
+
+## To the Goblin Den
+
