@@ -13,7 +13,7 @@ Gundren Rockseeker will pay the team 10gp (each) for delivering a wagonload of s
 
 ### Escort to Phandalin (In Progress)
 
-[Sildar Hallwinter](../KeyNPCs) offers to pay the team 50 gp to provide escort for him from the Cragmaw Hideout to Phandalin.
+[Sildar Hallwinter](../KeyNPCs/sildarHallwinter.md) offers to pay the team 50 gp to provide escort for him from the Cragmaw Hideout to Phandalin.
 
 - Although he has no money on him, Sildar can secure a loan to pay the characters within a day after arriving in Phandalin.
 
