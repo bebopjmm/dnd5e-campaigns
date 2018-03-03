@@ -130,17 +130,102 @@ Triggering event: Domhnall creates silent image of a goliath warrior and has it 
 - Ripper turns his attack to Lynn, biting her fiercely (9hp)
 - GG2 then hits Lynn with an arrow (8hp) dropping her
 - Domhnall casts **magic missile** with one missile hitting and killing Ripper (3hp) and two missiles hitting Klarg
-- Lynn succeeds at first death save
+- Lynn's ***periapt of wound closure*** stablizes her
 - Klarg disengages and flees down the natural chimney
 
 ### Round 3
 
 - Craiuk shoots but misses GG2, then moves amongst the supplies again and Hides (13 Stealth - GG2 loses track of him)
-- Ethon cast **spare the dying** on Lynn, stabilizing her and then goes to see where the bugbear went
+- Ethon checks on Lynn and then goes to see where the bugbear went
 
-Decision to let Klarg flee. Everyone needs rest, so they set up watch and do a short rest.
+### Aftermath
 
-- Ethon casts **cure wounds** on Lynn
+- Group decides to let Klarg flee. 
+- Aided by the ***periapt of wound closure***, Lynn's second wind restores most of her health
+
+Everyone needs rest, so they set up watch and do a short rest.
+
+- Craiuk investigates the supplies and finds Klarg's chest
+	- determines potions are ***potions of healing*** by tasting
+	- keeps one and gives other to Domhnall
+	- leaves the chest for after rest of goblins are dealt with
 
 ## To the Goblin Den
+The time for stealth seems to be over, so Ethon casts **light** on his mace and takes point. The heroes leave the chamber shortly after the goblin advance team set up in the Twin Pools Cave.
+
+- using Ethon's active perception check (10) vs group stealth check of goblins - they succeed.
+
+### Surprise Round
+
+- GW1 hits Ethon with arrow (5hp) and GW5 crits with scimitar (8hp). all the other goblins miss (GG5 GG6 engaged with Ethon)
+
+### Round 1
+
+- GW1 hits Ethon again with an arrow (5hp) dropping him
+- GW5 closes to engage Lynn and hits with scimitar (5hp)
+- Lynn strikes back hitting GW5 with shortsword (5hp)
+- GW3 readies to fire arrow at anyone exiting chamber
+- GW4 closes to engage Lynn and hits (5hp)
+- Craiuk comes to Lynn's aid killing GW4 with shortsword(11hp) and killing GW5 with his dagger (4hp)
+- Domhnall rushes to Ethon's side, GW3 fires an arrow but misses, he pours his ***potion of healing*** down the cleric's throat (7hp)
+- GW2 fires and arrow at Domhnall, but misses
+
+### Round 2
+
+- GW1 fires an arrow at Domhnall and hits (5hp)
+- Lynn closes on GW2 and kills it with a rapier/shortsword combo (10hp)
+- GW3 fires an arrow at Lynn and hits (5hp)
+- Switching to short bow, Craiuk move into TPC and fires at GW1, missing
+- Ethon staggers back to his feat and channels **Preserve Life**
+- Dohmnall casts **fire arrow** nicking GW1 (2hp)
+
+### Round 3
+
+- GW1 fires at Lynn hitting (5hp) before darting back towards the bridge and hiding (7 Stealth)
+- Lynn uses a **Second Wind** (12hp), engages GW3 and action surges to attack, killing it with rapier (11hp)
+- Craiuk pursues GW1 and spots in passageway and nicks it with an arrow (3hp)
+- Ethon catches up and makes sure Lynn is not badly wounded
+- Dohmnall advances and spotting GW1 strikes it with another **fire bolt** and kills it.
+
+## The Goblin Den
+
+Although all wounded, the heroes decide to press forward and find Gundren and Sildar. After crossing the bridge, its decided for Craiuk to scout ahead.
+
+- 21 Stealth: he sneaks to the opening of the goblin den cave, hearing intermittent chatter in goblin, which he doesn't speak, but also heard a human voice groan. It's obvious the are close to half a dozen goblins inside.
+- returns to the group and reports. Frontal assault seems to be the best option
+- Group stealth (9 target) succeeds
+- Ethon casts **light** in the center of the chamber to kick off the attack
+
+### Round 1
+
+- Lynn rushes in spotting GW1 as the nearest, her rapier dispatches him (8hp) and she engages GW2, but misses.
+- GW3 fires an arrow and misses
+- GW4 fires and hits Lynn (5hp)
+- Domhnall goes in behind Lynn stopping at first kill and hurls a **fire bolt** at GW3 but misses
+- Yeemik calls for parley and the other enter warily
+
+### Parley
+	
+- after the offer an Sildar's warning, Domhnall states (in goblin) they already have Klarg's head. He then uses minor illusion to create it while pretending to be rummaging through his pack.
+	- holding up the illusion, the goblin warriors are completely convinced, Yeekmik is skeptical and orders the halfling to bring it to him.
+- Domhnall approaches, and looking at the head Yeemik buys into the illusion. As he cackles with sinister glee, Sildar slams his head into Yeemik and shouts "Kill them!"
+
+### Round 1
+
+- Lynn kills GW2 with rapier then engages GW3, but misses
+- GW4 quickly recovers and fires an arrow at Domhnall, but he ducks aside
+- Domhnall casts **magic missile** at Yeemik, badly wounding the goblin before scrambling back behind Ethon
+- Ethon casts **sanctuary** on Sildar before running up the natural steps to the raised area
+- Craiuk moves in a bit, fires at Yeemik, killing him (4hp)
+- GW3 slashes at Lynn, missing, before disengaging and fleeing down the steep passage.
+
+### Aftermath
+
+The heroes let the last goblin flee, regrouping and checking on Sildar. Then a short rest, listening to Sildar's tale.
+
+- Ethon casts **cure wounds** on Sildar.
+- Pilfer Yeemik
+
+While recovering the chest before going to the wagon, Sildar mentions that there is a Lionshield Coster in Phandalin. The supplies are too much for the wagon along with the goods already loaded. They return to their wagon and decide to head on to Phandalin the next morning.
+
 
