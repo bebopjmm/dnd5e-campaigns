@@ -221,7 +221,7 @@ Although all wounded, the heroes decide to press forward and find Gundren and Si
 
 ### Aftermath
 
-The heroes let the last goblin flee, regrouping and checking on Sildar. Then a short rest, listening to Sildar's tale.
+The heroes let the last goblin flee, regrouping and checking on Sildar. Then a short rest, listening to Sildar's tale of capture. The retired soldier offers a bonus (50gp) for escorting him to Phandalin.
 
 - Ethon casts **cure wounds** on Sildar.
 - Pilfer Yeemik

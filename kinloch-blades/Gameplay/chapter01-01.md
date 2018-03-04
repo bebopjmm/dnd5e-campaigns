@@ -42,8 +42,6 @@ Craiuk was intensely focused on the wagon invoice, but the others all picked up 
 
 No one is particularly proficient driving a wagon, but Ethon and Craiuk take on the driving assignment. Lynn and Domhnall walk alongside or ride on the wagon intermittently. At the end of each day, the heroes make camp, feed and water the oxen, and set watches. They arrived at the Triboar Trail by the end of the second day.
 
-- on the second day they see a castle upon a large cloud heading southeast.
-
 ## Goblin Ambush
 
 At midday the heroes came across the aftermath of an attack on the Triboar Trail.
