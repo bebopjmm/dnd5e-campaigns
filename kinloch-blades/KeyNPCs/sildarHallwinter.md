@@ -16,4 +16,6 @@ Sildar met Gundren Rockseeker in Neverwinter and agreed to accompany him back to
 
 ## Key Interactions
 
+**Attitude**: Friendly
+
 1. The heroes rescued Sildar from the goblins in the Cragmaw Hideout and took him on to [Phandalin](../Locations/phandalin.md) with them.

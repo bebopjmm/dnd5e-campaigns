@@ -4,14 +4,22 @@ Phandalin is a bustling frontier settlement has grown up on the ruins of a much 
 
 ## Town Stats
 
-- **Population**: 152 (31 families).
+- **Population**: 
 - **Governance**: Town master
 - **Trade**: gold, platinum, lumber, fur
 
 ## Locations of Note
 
-- Shrine to Loviatar
-- The Blue Duke Inn
-- General Store
+- Stonehill Inn
+- Sleeping Giant
+- Barthen's Provisions
+- Lionshield Coster
+- Phandalin Miners' Exchange
+- Shrine of Luck
+- Townmaster's Hall
+- Edermath Orchard
+- Alderleaf Farm
+- Tresendar Manor
 
 ## NPCs of Note
+
