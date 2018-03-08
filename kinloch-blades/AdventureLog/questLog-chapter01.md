@@ -2,10 +2,6 @@
 
 ## Open
 
-### Retrieve the Lionshield Coster Supplies (Open)
-
-[Linene Graywind](../KeyNPCs/lineneGraywind.md) offers to pay the team 50 gp to escort her workers to retrieve the stolen supplies from the Cragmaw Hideout.
-
 ### The Banshee's Bargain (Open)
 
 [Sister Garaele](../KeyNPCs/sisterGaraele.md) offers the team 4 potions of healing to persuade a banshee named Agatha to answer a question about a spell book. 
@@ -21,7 +17,15 @@
 
 ## Completed
 
-### Escort to Phandalin (In Progress)
+### Retrieve the Lionshield Coster Supplies
+
+[Linene Graywind](../KeyNPCs/lineneGraywind.md) offers to pay the team 50 gp to escort her workers to retrieve the stolen supplies from the Cragmaw Hideout.
+
+#### Completion
+
+The party retrieved the stolen supplies and collected their payment from a very appreciative Linene Graywind.
+
+### Escort to Phandalin
 
 [Sildar Hallwinter](../KeyNPCs/sildarHallwinter.md) offers to pay the team 50 gp to provide escort for him from the Cragmaw Hideout to Phandalin.
 

@@ -6,7 +6,7 @@
 
 Female Human Commoner
 
-**Party Attitude**: Neutral
+**Party Attitude**: Friendly
 
 ## Background
 
@@ -18,3 +18,4 @@ Linene is strong-willed and sharp-tongued.
 
 ## Key Interactions
 
+1. The heroes recovered the stolen Lionshield supplies from the Cragmaw Hideout and returned them to Linene in Phandalin.

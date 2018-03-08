@@ -114,10 +114,37 @@ Linene's workers, Landen and Uli, have the wagon, oxen, and pack mules ready by 
 
 - S3 drains 5hp of blood from O2 rendering it unconcious and detaches sated
 - S4 detaches and flies to Ethon, but he dodges it
-- S6 drains last blod from M1 until it falls unconcious and detaches unsatisfied
+- S6 drains last blood from M1 until it falls unconcious and detaches unsatisfied
 - S5 detaches and flies to Ethon and attaches (5hp)
 - Groggy, Lynn grabs her weapons and heads to the animals
 - S1 drains 5hp of blood from O1 rendering it unconcious and detaches sated
 - S7 drains last blood from M2 until it falls unconcious and detaches unsatisfied
 - Domhnall casts **magic missile** at stirges engaged with Ethon and S8, killing all 3
-- Ethon ...
+- Ethon channels a **Preserve Life** granting 3 hp to each ox and 2 hp to each pack mule
+- Craiuk grabs his shortbow and quiver and fires an arrow at S2, killing it (4 hp)
+
+#### Round 2
+
+- S3 flies off sated with blood
+- S6 attaches to Lynn and drains 5hp (its sated now)
+- Lynn detaches S6 from her, flinging it to the ground
+- S1 flies off sated with blood
+- S7 attaches to Lynn and drains 5hp (its sated now)
+- Domhnall casts another **magic missile** at the stirges engaged with Lynn and S1, killing all 3
+- Ethon rushes to check the animals
+- Craiuk scouts that the campsite is now safe
+
+#### Conclusion
+
+- Ethon tends to the wounds of the animals and himself
+- Lynn's wounds are already closing
+- Everyone tries to get back to sleep
+- At the end of his watch, Ethon channels another **Preserve Life** to heal the animals more
+
+### Return to Phandalin
+
+The next morning the group sleeps in a bit to give the animals some extra needed rest before returning to Phandalin. Fortunately the return trip proves uneventful and they arrive just after nightfall. Linene is pleased to have the supplies recovered and pays the heroes the agreed upon 50 gp. The heroes head to the Stonehill Inn for a hot meal, drinks, and a nice bed for the night.
+
+## Next Day
+
+
