@@ -227,5 +227,3 @@ The heroes let the last goblin flee, regrouping and checking on Sildar. Then a s
 - Pilfer Yeemik
 
 While recovering the chest before going to the wagon, Sildar mentions that there is a Lionshield Coster in Phandalin. The supplies are too much for the wagon along with the goods already loaded. They return to their wagon and decide to head on to Phandalin the next morning.
-
-

@@ -1,6 +1,6 @@
 # Craiuk Runeheart
 
-*Craiuk is a adjective dwarf rogue that specializes in hunting ancient relics*
+*Craiuk is a adjective dwarf rogue that specializes in recovering ancient relics*
 
 ![Craiuk](https://www.dropbox.com/s/gxxnnmutjcqf1is/craiukRuneheart.png?raw=1)
 
@@ -28,4 +28,4 @@ Lawful Good Male Shield Dwarf Rogue (2)
 
 ## Key Story Events
 
-1. **Strange Map**: An ancient map showing a forgotten dwarf stronghold beneath the Sumber Hills has come into your possession. Though incomplete and faded, it has the name Tyar-Besil written on it in dwarven.
+1. 

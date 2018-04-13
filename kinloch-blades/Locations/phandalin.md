@@ -1,16 +1,18 @@
 # Phandalin
 
-Phandalin is a bustling frontier settlement has grown up on the ruins of a much older settlement. It is home now to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Sword Mountains.
+Phandalin is a bustling frontier settlement has grown up on the ruins of a much older settlement. It is home now to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Slumbering Mountains.
 
-## Town Stats
+## Summary
+
+### Town Stats
 
 - **Population**: 
 - **Governance**: Town master
 - **Trade**: gold, platinum, lumber, fur
 
-## Locations of Note
+### Locations of Note
 
-- Stonehill Inn
+- [Stonehill Inn](#stonehill-inn)
 - Sleeping Giant
 - Barthen's Provisions
 - Lionshield Coster
@@ -21,5 +23,10 @@ Phandalin is a bustling frontier settlement has grown up on the ruins of a much 
 - Alderleaf Farm
 - Tresendar Manor
 
-## NPCs of Note
+### NPCs of Note
+
+## Location Details
+
+### Stonehill Inn
+
 

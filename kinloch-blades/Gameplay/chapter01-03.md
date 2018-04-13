@@ -9,10 +9,10 @@ Having cleared out the menace of the Cragmaw Hideout and rescued Sildar Hallwint
 
 		> A powerful force of orcs reinforced by evil mercenary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle destroyed much of the cavern. Few survived the cave-in and tremors, and the location of Wave Echo Cave was lost.
 	
-	- Klarg, the bugbear who leads this goblin band, had orders to waylay Gundren. Sildar heard from the goblins that the Black Spider sent word that the dwarf was to be brought to him. Sildar doesn't know who or what the Black Spider is.
+	- Klarg, the bugbear who leads this goblin band, had orders to waylay Gundren. Sildar heard from the goblins that the Black Mamba sent word that the dwarf was to be brought to him. Sildar doesn't know who or what the Black Mamba is.
 	- Gundren had a map showing the secret location of Wave Echo Cave, but the goblins took it when they captured him.
 		- Sildar believes that Klarg sent the map and the dwarf to the chief of the Cragmaws at a place called Cragmaw Castle. He doesn't know where that might be, but he suggests someone in Phandalin might know.
-	-	Sildar's contact in Phandalin is a human wizard named Iarno Albrek. The wizard traveled to the town two months ago to establish order there. After the Lords' Alliance received no word from Iarno, Sildar decided to investigate
+	-	Sildar's contact in Phandalin is a human wizard named Iarno Albrek. The wizard traveled to the town two months ago to establish order there. After the Crimson Dawn Legion received no word from Iarno, Sildar decided to investigate
 
 ## Phandalin at Last
 
@@ -25,7 +25,7 @@ As the day is late, Sildar recommends securing lodging first at the Stonehill In
 
 ### Barthen's Provisions
 
-When the group arrives, Elmar greets them and after taking a quick inventory, tasks his clerks, Under and Thistle, to unload the wagon.	Elmar asks about Gundren, and the party relates the events along Triboar Trail.
+When the group arrives, Elmar greets them and after taking a quick inventory, tasks his clerks, Under and Thistle, to unload the wagon.	Elmar asks about Gundren, and the party relates the events along Westgulch Trail.
 
 - Elmar is sincerely saddened and distressed to hear the news.
 - Elmar mentions that two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town. They haven’t been in town in a ten-day and should return “any day now” to resupply
@@ -42,7 +42,7 @@ With the delivery completed, the heroes returned to the Stonehill Inn for a much
 
 - Narth, an old farmer: “Sister Garaele, who oversees the Shrine of Luck, recently left town for a few days, then returned wounded and exhausted.”
 - Elsa, a gossipy barmaid: “Daran Edermath, the orchard keeper, grows the best apples. You would never guess that he is a former adventurer.”
-- Lanar, a miner: “Orc raiders have been seen on the east end of Tribal Trail. The town master is looking for someone to run them off.”
+- Lanar, a miner: “Orc raiders have been seen on the east end of Westgulch Trail. The town master is looking for someone to run them off.”
 - Trilena, the innkeeper’s wife: “Thel Dendrar, a local woodcarver, stood up to those Redbrands a ten-day ago when they came by his shop and leered at his wife. The ruffians murdered him. Several townsfolk saw it happen. They grabbed his body, and now his wife, daughter, and son have gone missing.”
 - Pip, Toblen’s youngest son: “Qeline Alderleaf’s son, Carp, said he found a secret tunnel in the woods, but Redbrands almost caught him.”
 - Freda, a weaver: “The Redbrands hassle every business in town except for the Phandalin Miners’ Exchange. They don’t want trouble with Halia Thornton who runs it.”

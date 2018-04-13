@@ -4,7 +4,7 @@
 
 ### The Banshee's Bargain (Open)
 
-[Sister Garaele](../KeyNPCs/sisterGaraele.md) offers the team 4 potions of healing to persuade a banshee named Agatha to answer a question about a spell book. 
+[Sister Garaele](../KeyNPCs/sisterGaraele.md) offers the team 4 potions of healing to persuade a banshee named Agatha to answer a question about a spell book. The banshee can be found
 
 - bring Agatha a suitable gift, a jeweled silver comb, and persuade the banshee to tell the location of a spell book belonging to a legendary mage name Bowgentle.
 	- She gives the comb to the party, indicating that flattering Agatha’s vanity might successfully yield a trade for information
@@ -13,7 +13,7 @@
 ### Finding Cragmaw Castle (Open)
 
 [Sildar Hallwinter](../KeyNPCs/sildarHallwinter.md) offers 500 gp for locating Cragmaw Castle and defeating or driving off the tribe’s chieftain.
-	- Suggests searching the lands around Triboar Trail for more raiding parties in order to track down the location of the castle	
+	- Suggests searching the lands around Westgulch Trail for more raiding parties in order to track down the location of the castle	
 
 ## Completed
 
@@ -37,7 +37,7 @@ Sildar was true to his word and secured funds shortly after arriving in Phandali
 
 ### Delivery to Phandalin
 
-Gundren Rockseeker will pay the team 10gp (each) for delivering a wagonload of supplies from Neverwinter to Barthen’s Provisions in the frontier settlement of Phandalin
+Gundren Rockseeker will pay the team 10gp (each) for delivering a wagonload of supplies from Lastharbor to Barthen’s Provisions in the frontier settlement of Phandalin
 
 - The characters will receive their payment from Elmar Barthen upon successful delivery
 	- All the supplies must arrive in good condition

@@ -4,14 +4,14 @@
 
 ### Rockseeker Mining
 
-The heroes arrived independently to the small warehouse in Neverwinter bearing the sign, Rockseeker Mining, as instructed to meet Gundren Rockseeker for the job.
+The heroes arrived independently to the small warehouse in Lastharbor bearing the sign, Rockseeker Mining, as instructed to meet Gundren Rockseeker for the job.
 
 - Gundren introduced the heroes to each other, adding "You'll have plenty of time to become acquainted on road."
-- he then reviewed the terms of the delivery contract: safe delivery of a wagonload of supplies from Neverwinter to Barthen's Provisions in Phandalin.
+- he then reviewed the terms of the delivery contract: safe delivery of a wagonload of supplies from Lastharbor to Barthen's Provisions in Phandalin.
 	1. all the supplies must arrive in good condition
 	2. the wagon and oxen must be in good condition
 	3. the heroes will receive their payment of 10gp each from Elmar Barthen upon successful delivery
-- Gundren 
+- Gundren provided them a map of the area
 
 At this point, Sildar Hallwinter entered the building with a message for Gundren. The dwarf introduced Sildar before reading the message, becoming extremely excited.
 
@@ -40,11 +40,11 @@ True to Gundren's word, Jonas, Kenan, and a friend had the wagon loaded and oxen
 
 Craiuk was intensely focused on the wagon invoice, but the others all picked up on a disturbing ill manner about the friend of Jonas and Kenan.
 
-No one is particularly proficient driving a wagon, but Ethon and Craiuk take on the driving assignment. Lynn and Domhnall walk alongside or ride on the wagon intermittently. At the end of each day, the heroes make camp, feed and water the oxen, and set watches. They arrived at the Triboar Trail by the end of the second day.
+No one is particularly proficient driving a wagon, but Ethon and Craiuk take on the driving assignment. Lynn and Domhnall walk alongside or ride on the wagon intermittently. At the end of each day, the heroes make camp, feed and water the oxen, and set watches. They arrived at the Westgulch Trail by the end of the second day.
 
 ## Goblin Ambush
 
-At midday the heroes came across the aftermath of an attack on the Triboar Trail.
+At midday the heroes came across the aftermath of an attack on the Westgulch Trail.
 
 - Lynn went to investigate, while Craiuk readied his shortbow, Ethon dismounted from the wagon, and Dohmnall cast *mage armor* upon himself
 	- Lynn recognizes the Rockseeker Mining Crest on the saddlebags.
@@ -133,7 +133,7 @@ The group made camp and setup watches. The night proved uneventful.
 The next morning, the heroes backtracked on foot to where the ambush took place. The approach stealthily, but no goblins lurk here. Craiuk and Ethon inspect the area while Lynn and Dohmnall keep watch.
 
 - lots of goblin tracks indicate they have been using this as an ambush site for some time.
-- Craiuk locates a a hidden trail behind the north side thickets that leads NW.
+- Craiuk locates a a hidden trail behind the north side thickets that leads NW into the Mintmoss Wood.
 - Ethon recognizes that about a dozen goblins have come and gone along the trail recently, as well as signs of two human-sized bodies being dragged away from the ambush site.
 
 Following the trail at a cautious pace, marching order:
